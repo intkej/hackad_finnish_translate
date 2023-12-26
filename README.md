@@ -16,3 +16,4 @@ At the beginning of your episode, head to the "Extensions" menu in the top right
 Select "Substital"
 # Select the files
 You will see this menu in the bottom of your screen, press it and select the right translated .srt file and you're good to go.
+![Image](Kuvakaappaus 2023-12-27 01-29-43.png)
