@@ -1,0 +1,1376 @@
+1
+00:00:01,160 --> 00:00:03,920
+/ HÄLYTYS /
+
+2
+00:00:09,000 --> 00:00:12,720
+Hyvää huomenta, Klara.
+Toivottavasti olet nukkunut hyvin.
+
+3
+00:00:12,880 --> 00:00:18,680
+On aurinkoista ulkona. Lämpötila on
+7 astetta, ja tuulee aika paljon.
+
+4
+00:00:21,840 --> 00:00:25,280
+Hyvää huomenta, Molly.
+Toivottavasti olet nukkunut hyvin.
+
+5
+00:00:25,440 --> 00:00:29,560
+On tiistai.
+Älä unohda, Mollylla on ulkoaktiviteetteja-
+
+6
+00:00:29,720 --> 00:00:33,920
+    ja että Klaran tulisi
+    ottaa läksyt mukaan kouluun.
+
+7
+00:00:34,600 --> 00:00:37,800
+Käynnistä kahvinkeitin.
+
+8
+00:00:37,960 --> 00:00:41,440
+Tietenkin. Asetan sen tasolle kaksi.
+
+9
+00:00:41,600 --> 00:00:47,280
+Kotimme ovat yhä enemmän yhteydessä
+ja täynnä älylaitteita.
+
+10
+00:00:47,440 --> 00:00:54,040
+Ominaisuudet kuten lukot, hälytykset ja -
+turvallisuus ovat tänään yhteydessä Internetiin.
+
+11
+00:00:54,200 --> 00:00:57,600
+Ja kaikilla digitaalisilla järjestelmillä
+on heikkoutensa.
+
+12
+00:00:57,760 --> 00:01:01,440
+Yhä useammat kodinkoneet
+on liitetty verkkoon.
+
+13
+00:01:01,600 --> 00:01:05,680
+Kaikki tämä on helppo hakata,
+minkä rikolliset tietävät.
+
+14
+00:01:05,840 --> 00:01:07,840
+Me testaamme
+
+15
+00:01:08,000 --> 00:01:12,440
+voivatko hakkerimme ottaa kontrollin
+liitetystä kodista.
+
+16
+00:01:12,600 --> 00:01:17,000
+-Heillä on 30 tuntia.
+-Luulen, että meidän on varastettava yksi.
+
+17
+00:01:34,040 --> 00:01:37,360
+Mitä haluat minun tekevän?
+
+18
+00:01:41,920 --> 00:01:48,400
+Nimeni on Karl-Johan Lidenalv ja
+työskentelen IoT:n parissa järjestelmäpäällikkönä.
+
+19
+00:01:48,560 --> 00:01:51,200
+IoT tarkoittaa "asioiden Internetiä" -
+
+20
+00:01:51,360 --> 00:01:55,360
+    ja tarkoittaa
+    yhdistettyjä koneita ja laitteita.
+
+21
+00:01:55,520 --> 00:01:59,400
+Se on perusedellytys
+kodin hallitsemiseksi
+
+22
+00:01:59,560 --> 00:02:02,400
+    ilman ihmisen vuorovaikutusta.
+
+23
+00:02:02,560 --> 00:02:04,760
+Minkälainen sää tulee olemaan?
+
+24
+00:02:04,920 --> 00:02:08,160
+Karlskronassa tulee olemaan
+pääosin aurinkoista.
+
+25
+00:02:08,320 --> 00:02:10,640
+Lämpötilat 2-16 astetta.
+
+26
+00:02:10,800 --> 00:02:17,400
+Aamurutiinimme perustuu siihen, että
+heräämme helposti ajoissa.
+
+27
+00:02:17,560 --> 00:02:22,800
+Nostamme verhot ja sytytämme
+valot talvella.
+
+28
+00:02:22,960 --> 00:02:27,800
+Aloitamme radion. Kaikki saadaksemme
+mahdollisimman virkeän heräämisen.
+
+29
+00:02:27,960 --> 00:02:32,440
+Sitten avustajamme kertoo meille,
+mitä tänään tapahtuu.
+
+30
+00:02:32,600 --> 00:02:35,480
+Anna minun puhua kauppaan.
+
+31
+00:02:36,440 --> 00:02:40,200
+Hei! Jo takaisin?
+Mitä voin tehdä puolestasi?
+
+32
+00:02:40,360 --> 00:02:44,280
+Lisää päärynäjuoma ostoslistalle.
+
+33
+00:02:44,440 --> 00:02:50,200
+-Roger. Mitä muuta tarvitset?
+-Karkkia.
+
+34
+00:02:50,360 --> 00:02:55,240
+-Okei. Toivottavasti kuulemme
+sinusta pian.
+-Se lisätään luultavasti lauantaina.
+
+35
+00:02:55,400 --> 00:02:58,480
+Suurin asia, jonka meillä on, ovat automaatiot.
+
+36
+00:02:58,640 --> 00:03:04,480
+Mutta lapset käyttävät luultavasti enemmän
+apulaitteita kuin me aikuiset yleensä.
+
+37
+00:03:04,640 --> 00:03:10,000
+Paras tapa päästä Bastasjöhön bussilla
+on ottaa bussi 3, joka lähtee 7.27-
+
+38
+00:03:10,160 --> 00:03:15,080
+-AWA-tien varrelta, joka sijaitsee
+10 sekuntia sijainnistasi.
+
+39
+00:03:15,240 --> 00:03:18,600
+Matka kestää yhteensä 26 minuuttia.
+
+40
+00:03:26,160 --> 00:03:33,040
+Tiedän, että tavoitteena on päästä sisään
+ja ottaa haltuun älykotini.
+
+41
+00:03:35,240 --> 00:03:42,520
+Mutta en ole julkaissut tietoja
+enkä tiedä, mistä he aloittavat.
+
+42
+00:03:42,680 --> 00:03:47,280
+Älykoti koostuu noin 70 mikroprosessorista
+ja anturista talossa ja takapihalla.
+
+43
+00:03:47,440 --> 00:03:52,400
+-Karl-Johan työskentelee kotoa käsin
+    mutta näkee huonosti puutarhaan ja takapihalle, missä hakkerit ovat.
+
+44
+00:03:52,560 --> 00:03:57,440
+Mutta heidän on löydettävä anturi
+ilman, että Karl-Johan huomaa sen.
+
+45
+00:03:57,600 --> 00:04:03,120
+Nyt hakkerien on löydettävä anturi
+ilman, että Karl-Johan huomaa sen.
+
+46
+00:04:10,320 --> 00:04:12,840
+-Löytyikö jotain?
+-Kyllä ja ei.
+
+47
+00:04:13,000 --> 00:04:19,440
+-Oliko jotain, joka tuntui yhteydessä?
+-Siellä on anturi.
+
+48
+00:04:19,600 --> 00:04:25,560
+Onko kaveri vanha sotilas? Siellä
+saattaa olla maahan haudattuja miinoja.
+
+49
+00:04:25,720 --> 00:04:30,120
+Voimme olla murtautujia.
+Nappaa se, ettei minun tarvitse olla se.
+
+50
+00:04:30,280 --> 00:04:34,280
+-Ovatko he kotona?
+-Siellä on ihmisiä kotona.
+
+51
+00:04:36,280 --> 00:04:41,840
+En tiedä, mitä teemme vielä, mutta
+murtaudumme taloon herrasmiehen kanssa-
+
+52
+00:04:42,000 --> 00:04:47,560
+-jolla on paljon yhteydessä olevia pieniä
+tietokoneita, jotka ohjaavat eri asioita.
+
+53
+00:04:47,720 --> 00:04:51,920
+Meidän on päästävä
+hänen antureihinsa puutarhassa.
+
+54
+00:04:52,080 --> 00:04:58,840
+Niissä voi olla salaisuuksia,
+jotta voimme yhdistää sisälle.
+
+55
+00:04:59,000 --> 00:05:02,480
+Jos joku ihmettelee, mitä teen siellä,
+
+56
+00:05:02,640 --> 00:05:07,360
+-teeskentelen olevani
+maanmittauksen edustaja tai kiinteistönvälittäjä.
+
+57
+00:05:07,520 --> 00:05:11,560
+Jokin toimistotyöntekijä,
+koska olen pukeutunut niin.
+
+58
+00:05:11,720 --> 00:05:18,080
+Suunnitelmamme on seurata kaapeleita
+takapihalla, jotka voivat johtaa antureihin.
+
+59
+00:05:44,920 --> 00:05:48,400
+-Hei! Saitko sen?
+-Hae tämä!
+
+60
+00:05:48,560 --> 00:05:55,160
+Täällä on kirottu reititin,
+joten voimme liittyä suoraan siihen.
+
+61
+00:05:55,320 --> 00:05:59,440
+Hän meni sisään murtautujana
+ja teki tiedustelua.
+
+62
+00:05:59,600 --> 00:06:03,520
+Hän löysi todennäköisesti etsimämme asian.
+
+63
+00:06:03,680 --> 00:06:09,880
+Laatikko, joka todennäköisesti sisältää
+ohjausyksikön haluamillemme asioille.
+
+64
+00:06:10,040 --> 00:06:14,080
+Mutta hän löysi myös
+reitittimen ja virtaa.
+
+65
+00:06:14,240 --> 00:06:19,880
+Joten voimme todella vain liittyä
+tänne kuin verkkoyksikkö.
+
+66
+00:06:22,360 --> 00:06:27,120
+Aika varma, että olen turvassa.
+He eivät koskaan pääse sisään.
+
+67
+00:06:27,280 --> 00:06:33,120
+Jos he, kaikkien odotusten vastaisesti, pääsevät sisään,
+he eivät voi ottaa haltuun älykotiani.
+
+68
+00:06:33,280 --> 00:06:36,760
+Tämä on aika, jonka he menettävät.
+
+69
+00:06:36,920 --> 00:06:40,520
+Tässä meillä on reititin,
+joka on pääsy verkkoon.
+
+70
+00:06:40,680 --> 00:06:44,080
+Kaikki on rakennettu yhdessä
+ja integroitu toisiinsa.
+
+71
+00:06:44,240 --> 00:06:47,120
+Jos haluat päästä sisään, tässä se on.
+
+72
+00:06:47,280 --> 00:06:51,680
+Se on älykotini sydän
+ja herkin kone.
+
+73
+00:06:51,840 --> 00:06:58,720
+Tässä näet, kun joku on kirjautunut
+reitittimeen. Toivottavasti se olen minä.
+
+74
+00:06:59,800 --> 00:07:04,320
+Yhä useammat kodinkoneet
+on liitetty verkkoon.
+
+75
+00:07:04,480 --> 00:07:11,280
+Ruohonleikkuri,
+herätyskellonne tai vauvamonitorinne.
+
+76
+00:07:11,440 --> 00:07:14,880
+Kaikki on yhteydessä.
+Jopa jääkaappi.
+
+77
+00:07:15,040 --> 00:07:18,760
+Kaikki tämä on helppo hakkeroida,
+
+78
+00:07:18,920 --> 00:07:26,080
+-koska useimmat yritykset käyttävät
+samoja salasanoja koko tuotesarjassa.
+
+79
+00:07:26,240 --> 00:07:29,480
+jotka rikolliset tuntevat.
+-Ja sitten ottavat hallinnan.
+
+80
+00:07:29,640 --> 00:07:35,800
+Voit sammuttaa hälytyksen etänä
+kotona, jos se on sellaista tyyppiä.
+
+81
+00:08:15,000 --> 00:08:21,040
+Kyllä, olemme 2.10-verkossa.
+Nyt meillä on pääsy sisälle.
+
+82
+00:08:21,200 --> 00:08:27,600
+Olemme löytäneet reitittimen ulkopuolelta,
+johon olemme liittyneet.
+
+83
+00:08:27,760 --> 00:08:31,160
+Sillä on huono yhteys
+talon muuhun osaan -
+
+84
+00:08:31,320 --> 00:08:36,880
+-mutta olemme vahvistaneet, että se on oikea
+verkko, joten tavoitamme laitteet talossa.
+
+85
+00:08:37,040 --> 00:08:42,320
+-Tarkista nopeasti ja kartoita sisäpuoli.
+-Se on hidas, mutta teen sen.
+
+86
+00:08:42,480 --> 00:08:45,560
+Sitten työskentelemme sen pohjalta.
+
+87
+00:08:48,840 --> 00:08:54,160
+Luulen, että minulla on hieman korkeampi
+turvallisuusajattelu kuin keskivertokäyttäjällä.
+
+88
+00:08:54,320 --> 00:09:00,440
+Minulla on oikea palomuuri tai
+oikea reititin palomuurilla.
+
+89
+00:09:00,600 --> 00:09:07,400
+Minulla on IoT-laitteet erotettuna
+omalle verkollensa.
+
+90
+00:09:07,560 --> 00:09:14,800
+Joten vaikka ottaisittekin hallintaan
+IoT-laitteet, ne eivät voi ottaa hallintaansa älykotiani.
+
+91
+00:09:14,960 --> 00:09:21,120
+Minulla on säännöt palomuurissa,
+jotka sulkivat pahoin käyttäytyvät ihmiset ulos.
+
+92
+00:09:21,280 --> 00:09:25,640
+    Näetkö päätepisteen?
+    -Ei, ei mitään.
+
+93
+00:09:25,800 --> 00:09:29,200
+-En näe mitäänkään.
+-Ovatko ne sammuttaneet sen?
+
+94
+00:09:29,360 --> 00:09:32,160
+Verkko katosi hetkeksi -
+
+95
+00:09:32,320 --> 00:09:37,520
+-joten luulemme jonkun vetäneen johdon
+aivoista. Se on huono.
+
+96
+00:09:37,680 --> 00:09:43,960
+Meillä ei enää ole pääsyä. Kaveri
+oli todennäköisesti paranoidi ja veti johdon irti.
+
+97
+00:09:44,120 --> 00:09:46,640
+Emme näe enää wifiä.
+
+98
+00:09:46,800 --> 00:09:51,040
+Hakkerit ovat menettäneet yhteyden
+ja heidän täytyy löytää uusi pääsy.
+
+99
+00:09:51,200 --> 00:09:56,800
+Jesper haluaa varastaa yhden talon
+mikroprosessorin. Klo käy...
+
+100
+00:09:56,960 --> 00:10:01,920
+Meidän täytyy varastaa laite
+nähdäksemme, miten ne ovat määritettyjä.
+
+101
+00:10:02,080 --> 00:10:05,800
+-Saat pari pihtejä.
+-Leikataanko se irti?
+
+102
+00:10:05,960 --> 00:10:09,720
+Otamme määrityksen
+hotelliin -
+
+103
+00:10:09,880 --> 00:10:13,640
+ja teemme hakkerinapin
+yön aikana.
+
+104
+00:10:13,800 --> 00:10:16,680
+Sitten voimme painaa Enter huomenna.
+
+105
+00:10:16,840 --> 00:10:20,920
+Se on niin ei-tekninen
+kuin voin tehdä sen.
+
+106
+00:10:21,080 --> 00:10:27,600
+Et varmasti kuvaa tätä, vai?
+Menemme vain ja otamme sen pois.
+
+107
+00:10:29,200 --> 00:10:35,040
+Pieni piirilevy eri
+antureissa, jotka sisältävät salaisuuksia
+
+108
+00:10:35,200 --> 00:10:39,760
+-jotka haluamme purkaa.
+Tarvitsemme ne fyysisesti.
+
+109
+00:10:39,920 --> 00:10:44,200
+Löydän "Raspberry Pi": n
+ja poistan muistikortin siitä.
+
+110
+00:10:44,360 --> 00:10:48,040
+Ja Jesper löytää anturin.
+
+111
+00:11:02,320 --> 00:11:07,800
+Auto on myös yhteydessä,
+mikä ei ollut alussa.
+
+112
+00:11:07,960 --> 00:11:12,520
+Olen laittanut gps-seurannan
+automaatiokerrokseeni.
+
+113
+00:11:12,680 --> 00:11:15,120
+Lataan auton sijainnin -
+
+114
+00:11:15,280 --> 00:11:21,720
+-ja kun auto tulee kotiin,
+ovet aukeavat.
+
+115
+00:11:44,720 --> 00:11:47,400
+Jesper.
+
+116
+00:11:48,320 --> 00:11:53,920
+Mitä kuuluu? Oliko hyvä päivä?
+    Oliko sinulla myös hyvä päivä?
+
+117
+00:11:54,080 --> 00:11:58,120
+-Tarkistitko, ettei virta katkennut?
+-Kyllä.
+
+118
+00:12:04,840 --> 00:12:09,720
+Nyt meillä on pääsy
+yhteen verkoista
+
+119
+00:12:09,880 --> 00:12:13,880
+-ja voimme yrittää edetä
+sen kautta.
+
+120
+00:12:16,840 --> 00:12:20,960
+Usein kuluttajatuotteet
+ovat laajasti avoimia hakkerille.
+
+121
+00:12:21,120 --> 00:12:26,880
+Se on vaara monella eri tavalla.
+Meitä voidaan valvoa.
+
+122
+00:12:27,040 --> 00:12:31,160
+Kuvat ja tiedot
+voivat päätyä vääriin käsiin.
+
+123
+00:12:31,320 --> 00:12:38,920
+Esimerkiksi lasten seurantaan
+tarkoitetuista kelloista.
+
+124
+00:12:39,080 --> 00:12:43,200
+Niistä muut ovat saaneet
+sen tiedon.
+
+125
+00:12:43,360 --> 00:12:47,520
+Se on epämukavaa,
+jos kukaan muu tietää, missä kaikki lapset ovat.
+
+126
+00:12:47,680 --> 00:12:51,960
+Se voi myös vaikuttaa yhteiskuntaamme.
+
+127
+00:12:52,120 --> 00:12:59,680
+Liität sitten paljon IoT-laitteita,
+kuten kameroita, valtavaan verkkoon.
+
+128
+00:12:59,840 --> 00:13:06,200
+Sitten käytät niitä hyökätäksesi
+esimerkiksi viranomaisia ja lehtiä vastaan.
+
+129
+00:13:07,520 --> 00:13:13,440
+Reittimen kautta rikolliset voivat
+ottaa hallintaansa internet-yhteydessä olevia esineitä.
+
+130
+00:13:13,600 --> 00:13:17,240
+He voivat tilata tuhansia laitteita
+tuhansien kotien laitteista -
+
+131
+00:13:17,400 --> 00:13:21,520
+-lähettämään pyyntöjä samanaikaisesti
+yritykselle tai viranomaiselle.
+
+132
+00:13:21,680 --> 00:13:24,160
+Niin kutsuttu DDos-hyökkäys.
+
+133
+00:13:24,320 --> 00:13:30,120
+Yrityksen järjestelmä estyy, eikä heillä
+ole mahdollisuutta suorittaa normaaleja tehtäviä.
+
+134
+00:13:30,280 --> 00:13:36,560
+Kaikki tämä tapahtuu hiljaisuudessa ilman
+että sinulla on aavistustakaan siitä, mitä tapahtuu.
+
+135
+00:13:36,720 --> 00:13:40,480
+Voit ostaa tietokoneverkon
+esim. Venäjältä -
+
+136
+00:13:40,640 --> 00:13:44,920
+-ja maksat tunnissa,
+niin kauan kuin aiot käyttää sitä.
+
+137
+00:13:49,560 --> 00:13:54,120
+    Haluatko jotain ruokaa?
+    -Kyllä! Laitetaan se tähän.
+
+138
+00:13:54,280 --> 00:13:56,880
+Mikään ei ole vaikuttanut työhöni -
+
+139
+00:13:57,040 --> 00:14:03,240
+-mutta olen huomannut, että tuntemattomat laitteet
+ovat päässeet wifiimme.
+
+140
+00:14:03,400 --> 00:14:08,080
+Kytkin lakkaa toimimasta klo 13.55.
+
+141
+00:14:08,240 --> 00:14:11,360
+Olen vähän hermostunut, täytyy myöntää.
+
+142
+00:14:15,160 --> 00:14:20,480
+-Miksei se sanonut mitään pyykeistä?
+-30 asteen pesut eivät mene 100%:iin.
+
+143
+00:14:20,640 --> 00:14:26,000
+Ne menevät vain 99%,
+eivätkä sitten ehdi reagoida.
+
+144
+00:14:26,160 --> 00:14:28,640
+Vaimoni...
+
+145
+00:14:30,440 --> 00:14:35,240
+-Olen kiinnostunut, kun se toimii.
+-Aina toimii.
+
+146
+00:14:35,400 --> 00:14:40,240
+En voi sytyttää lamppua
+ilman puhelinta.
+
+147
+00:14:40,400 --> 00:14:45,280
+En voi enää vetää verhoja ylös,
+narut on poistettu.
+
+148
+00:14:45,440 --> 00:14:50,240
+Muistan
+oli viikonloppu ...
+
+149
+00:14:50,400 --> 00:14:57,040
+... kun oli pimeää, kylmää
+ja talvi, ja jotain tapahtui.
+
+150
+00:14:57,200 --> 00:15:02,640
+Koko viikonloppuna en voinut laittaa
+valoja päälle. Hän ei ollut silloin kovin suosittu.
+
+151
+00:15:02,800 --> 00:15:08,040
+Kun autotallin ovi meni ylös ja alas
+yöllä, hän ei ollut tyytyväinen.
+
+152
+00:15:08,200 --> 00:15:13,720
+Jos sanoin, että oli ärsyttävää mennä katsomaan,
+oliko pyykit valmiit
+
+153
+00:15:13,880 --> 00:15:19,680
+-hän vastasi: "Korjaan sen!"
+Meillä on kaiutin, joka sanoo:
+
+154
+00:15:19,840 --> 00:15:23,440
+"Pesukone on valmis,
+poreallas on kuuma..."
+
+155
+00:15:23,600 --> 00:15:26,680
+Yhdistämme sen
+ja tallennamme ääntä.
+
+156
+00:15:26,840 --> 00:15:31,520
+Lamppu muuttuu vihreäksi, kun se on valmis,
+ja punaiseksi, kun se ei ole.
+
+157
+00:15:31,680 --> 00:15:34,920
+Pyykinpesukone on valmis.
+
+158
+00:15:35,080 --> 00:15:39,720
+-Se...
+-Se on nyt vihreä, joten se on valmis.
+
+159
+00:15:39,880 --> 00:15:42,880
+Se muuttuu vihreäksi toisen puoliskon aikana.
+
+160
+00:15:43,040 --> 00:15:46,280
+-Onko se valmis sitten?
+-Kuulin sen.
+
+161
+00:15:46,440 --> 00:15:49,520
+Vaimoni ei ole täysin myönteinen.
+
+162
+00:15:49,680 --> 00:15:55,720
+Hän ajattelee minun olevan nörtti ja
+että teen sen oman mielihyväni vuoksi.
+
+163
+00:15:55,880 --> 00:16:01,200
+Mutta ne ovat niitä hetkiä onnea,
+joina saan hänet ajattelemaan-
+
+164
+00:16:01,360 --> 00:16:05,320
+-että olen tehnyt hyviä asioita.
+
+165
+00:16:07,760 --> 00:16:11,600
+Kuivausrumpu on valmis.
+
+166
+00:16:11,760 --> 00:16:16,040
+Anna minun puhua kaupalle.
+Onko sinulla gratin-reseptiä?
+
+167
+00:16:16,200 --> 00:16:20,400
+-ICA ei valitettavasti vastaa juuri nyt.
+-Onko sinulla reseptiä?
+
+168
+00:16:20,560 --> 00:16:25,240
+Mutta isä, äiti tietää,
+joten kysy häneltä.
+
+169
+00:16:25,400 --> 00:16:29,000
+Kyllä, sitten kokeilemme sitä.
+-Hei äiti...!
+
+170
+00:16:30,680 --> 00:16:34,480
+Lisää margariini ostoslistalle.
+
+171
+00:16:34,640 --> 00:16:37,800
+Lisää hedelmät ostoslistalle.
+
+172
+00:16:37,960 --> 00:16:41,160
+Lisää salaatti ostoslistalle.
+
+173
+00:16:51,520 --> 00:16:55,000
+Hakkerit menevät hotelliin
+työskentelemään häiriöttä.
+
+174
+00:16:55,160 --> 00:17:01,200
+He huomaavat, että Karl-Johanin järjestelmä
+on kehittyneempi kuin he toivoivat.
+
+175
+00:17:01,360 --> 00:17:06,120
+Tämä IoT-mies on
+kuin mielipuolinen tiedemies.
+
+176
+00:17:06,280 --> 00:17:10,000
+siellä on palomuureja
+ja verkkosegmentointia.
+
+177
+00:17:10,160 --> 00:17:14,840
+Joten erilaiset verkot eri
+laitteille. On erilaisia käyttäjätilejä.
+
+178
+00:17:15,000 --> 00:17:20,480
+Hän on todella ajatellut kaiken.
+Hänet on todella vaikea hakata.
+
+179
+00:17:22,760 --> 00:17:27,280
+Yritämme oppia
+puhumaan "verhojen kieltä".
+
+180
+00:17:27,440 --> 00:17:33,200
+Emme tiedä, mitä kieltä he puhuvat,
+ja siksi he eivät ymmärrä meitä.
+
+181
+00:17:33,360 --> 00:17:38,480
+Voimme lähettää heille dataa, mutta
+he istuvat siellä ikkunassa ja sanovat:
+
+182
+00:17:38,640 --> 00:17:40,440
+"Mikä? Ei."
+
+183
+00:17:40,600 --> 00:17:44,640
+On useita verkkoja.
+Meillä on pääsy kahteen niistä.
+
+184
+00:17:44,800 --> 00:17:49,280
+Sisällä ovat kaikki laitteet,
+joita haluamme hallita.
+
+185
+00:17:49,440 --> 00:17:55,240
+Mutta emme tiedä, miten niitä hallitaan -
+miten uima-allas ja verhot hallitaan.
+
+186
+00:17:55,400 --> 00:17:59,400
+Meidän on kirjauduttava toiseen verkkoon,
+jossa "vipuja" sijaitsee.
+
+187
+00:17:59,560 --> 00:18:02,680
+Meillä on työkalut, mutta ei vipuja.
+
+188
+00:18:02,840 --> 00:18:08,320
+Se on jyrkkä oppimiskäyrä,
+koska kukaan ei ole tehnyt sitä ennen.
+
+189
+00:18:08,480 --> 00:18:11,160
+Mitä helvettiä?
+
+190
+00:18:11,320 --> 00:18:16,920
+Se vain lakkasi toimimasta.
+Se on hyvin outoa.
+
+191
+00:18:17,080 --> 00:18:22,240
+Olemmeko sanoneet, että pystymme tähän?
+Olemme sanoneet yrittävämme.
+
+192
+00:18:22,400 --> 00:18:26,600
+-Tämä...
+-Voi, kuinka turhauttavaa.
+
+193
+00:18:31,680 --> 00:18:36,640
+Haluamme huijata verkoston laitteet
+puhumaan yksiköllemme-
+
+194
+00:18:36,800 --> 00:18:39,560
+-jotta voimme tallentaa kaiken liikenteen.
+
+195
+00:18:39,720 --> 00:18:43,520
+Toivomme, että he sitten lähettävät tärkeää tietoa.
+
+196
+00:18:43,680 --> 00:18:50,240
+Haluamme tallentaa, kun laite
+lähettää "alenna verhot".
+
+197
+00:18:50,400 --> 00:18:54,920
+Jos saamme tämän "pyynnön" kiinni, voimme
+toistaa sen ja tehdä saman.
+
+198
+00:18:55,080 --> 00:18:57,960
+Sitten opimme, miten se toimii.
+
+199
+00:19:13,360 --> 00:19:18,200
+Nyt olemme istuneet koko päivän, illan
+ja aika myöhään yöllä.
+
+200
+00:19:18,360 --> 00:19:22,560
+Jesper on luovuttanut.
+Hän ei voinut sietää sitä ja tarvitsi nukkua.
+
+201
+00:19:22,720 --> 00:19:27,400
+Ääniteknikko ja muut
+elokuvaryhmän jäsenet ovat luovuttaneet.
+
+202
+00:19:27,560 --> 00:19:32,000
+Jinny ja minä olemme jäljellä
+ja meidän on murrettava tämä.
+
+203
+00:19:32,160 --> 00:19:36,280
+Mutta näemme
+koska on melko myöhä.
+
+204
+00:19:37,800 --> 00:19:40,800
+Olen löytänyt joitakin mielenkiintoisia asioita.
+
+205
+00:19:40,960 --> 00:19:44,880
+Kolme uutta konetta,
+joihin emme ole vielä yhdistäneet.
+
+206
+00:19:45,040 --> 00:19:50,640
+David on luonut tilin, joka on synkronoitu
+eri laitteisiin.
+
+207
+00:19:50,800 --> 00:19:55,600
+Olemme nyt kirjautuneet useampiin laitteisiin.
+
+208
+00:19:55,760 --> 00:19:58,800
+Olemme järjestelmänvalvojia
+koko verkossa.
+
+209
+00:19:58,960 --> 00:20:05,160
+Kuvittele, että olemme täällä, ja sitten löydämme
+pienen polun kolmanteen verkkoon.
+
+210
+00:20:05,320 --> 00:20:08,640
+Mutta emme ole löytäneet verkkoa,
+joka hallitsee laitteita.
+
+211
+00:20:08,800 --> 00:20:14,360
+Suunnitelmana nyt on yrittää päästä
+"äitipalvelimelle", joka hallitsee kaikkea.
+
+212
+00:20:14,520 --> 00:20:20,480
+Sieltä voimme hallita kaikkia laitteita
+sen sijaan, että menemme jokaiseen laitteeseen.
+
+213
+00:20:20,640 --> 00:20:25,560
+Sen sijaan, että puhuisimme "verhoista",
+yritämme puhua "äidille" -
+
+214
+00:20:25,720 --> 00:20:28,280
+-ja sitten äiti saa puhua verhoista.
+
+215
+00:20:28,440 --> 00:20:33,760
+Jos voimme oppia sen,
+pääsemme kaikkeen käsiksi.
+
+216
+00:20:33,920 --> 00:20:40,920
+Olen luultavasti löytänyt aivot.
+Tässä on "makuuhuoneen verhon syöttönumero".
+
+217
+00:20:41,080 --> 00:20:44,160
+Emme ole kaukana siitä nyt.
+
+218
+00:21:07,880 --> 00:21:13,840
+Liitämmekö kuumapaikan
+ja jatkamme siitä?
+
+219
+00:22:04,680 --> 00:22:07,720
+Niin sairasta! Teemme sen uudestaan.
+
+220
+00:22:19,920 --> 00:22:24,760
+-Radio: Jos voisin...
+-Voi hitto, se säikäytti minut!
+
+211
+00:20:08,800 --> 00:20:14,360
+Suunnitelmana nyt on yrittää päästä
+"äitipalvelimelle", joka hallitsee kaikkea.
+
+212
+00:20:14,520 --> 00:20:20,480
+Sieltä voimme hallita kaikkia laitteita
+sen sijaan, että menemme jokaiseen laitteeseen.
+
+213
+00:20:20,640 --> 00:20:25,560
+Sen sijaan, että puhuisimme "verhoista",
+yritämme puhua "äidille" -
+
+214
+00:20:25,720 --> 00:20:28,280
+-ja sitten äiti saa puhua verhoista.
+
+215
+00:20:28,440 --> 00:20:33,760
+Jos voimme oppia sen,
+pääsemme kaikkeen käsiksi.
+
+216
+00:20:33,920 --> 00:20:40,920
+Olen luultavasti löytänyt aivot.
+Tässä on "makuuhuoneen verhon syöttönumero".
+
+217
+00:20:41,080 --> 00:20:44,160
+Emme ole kaukana siitä nyt.
+
+218
+00:21:07,880 --> 00:21:13,840
+Liitämmekö kuumapaikan
+ja jatkamme siitä?
+
+219
+00:22:04,680 --> 00:22:07,720
+Niin sairasta! Teemme sen uudestaan.
+
+220
+00:22:19,920 --> 00:22:24,760
+-Radio: Jos voisin...
+-Voi hitto, se säikäytti minut!
+
+221
+00:22:24,920 --> 00:22:28,920
+-Miksi se alkoi?
+-Paina...
+
+222
+00:22:46,120 --> 00:22:48,200
+Ok...
+
+223
+00:22:52,480 --> 00:22:57,640
+Emme voi vielä laskea kanoja.
+Olemme vain avanneet autotallin oven.
+
+224
+00:22:57,800 --> 00:23:02,600
+Joten nyt suunnittelemme,
+koska haluamme nähdä, mitä voimme tehdä.
+
+225
+00:23:02,760 --> 00:23:08,400
+Voimmeko hallita pesukonetta, uima-allasta,
+verhoja ja Spotifyta?
+
+226
+00:23:08,560 --> 00:23:11,880
+Haluamme ottaa haltuun koko talon.
+
+227
+00:23:12,040 --> 00:23:17,920
+Luulemme, että voimme puhua näitä kieliä-
+
+228
+00:23:18,080 --> 00:23:22,880
+-ja sitten rakennamme jättiläisohjelman,
+joka käynnistää kaiken.
+
+229
+00:23:23,040 --> 00:23:26,160
+Se tulee olemaan mahtavaa, jos se toimii.
+
+230
+00:23:26,320 --> 00:23:32,440
+Voi, hyvää työtä eilen! Minulla ei
+ollut enää energiaa jäljellä. Olet mahtava.
+
+231
+00:23:32,600 --> 00:23:36,920
+-Tunsin, etten voinut luovuttaa.
+-Hyvä.
+
+232
+00:23:44,160 --> 00:23:49,320
+-Tarkista Keybase.
+-Haluamme hänen huomaavan meidät.
+
+233
+00:23:49,480 --> 00:23:54,440
+Soitan sinulle pian.
+Hiivin vähän ympäriinsä.
+
+234
+00:23:54,600 --> 00:23:56,880
+Olet linjalla.
+
+235
+00:23:59,200 --> 00:24:04,600
+-Olen käynnistänyt Spotifyn Klaraan.
+-Olin menossa keittiöön.
+
+236
+00:24:04,760 --> 00:24:09,440
+Tee se. Käynnistän kuoleman skriptin nyt.
+
+237
+00:24:09,600 --> 00:24:11,720
+Se käynnistyy.
+
+238
+00:24:16,800 --> 00:24:20,680
+-Aja se keittiössäkin.
+-Mennään.
+
+239
+00:24:30,520 --> 00:24:33,760
+    "Epic Sax Guy".
+    -Aivan.
+
+240
+00:24:33,920 --> 00:24:37,400
+Se ei ole niin vaarallisen ärsyttävää...
+
+241
+00:24:37,560 --> 00:24:40,720
+Käännämme äänen voimakkuutta.
+
+242
+00:24:43,840 --> 00:24:47,640
+Nyt on "saksofonimies".
+
+243
+00:24:49,120 --> 00:24:52,800
+Autotallin ovi avautuu.
+
+244
+00:24:58,520 --> 00:25:01,360
+-Sammuta.
+-Se ei ole me.
+
+245
+00:25:01,520 --> 00:25:04,840
+He ovat hakeneet tiensä kotiimme.
+
+246
+00:25:09,920 --> 00:25:12,800
+He laskevat vähän silloin tällöin.
+
+247
+00:25:14,960 --> 00:25:20,680
+Ne laskevat. Hitto.
+Ne laskevat, mutta minä nostan.
+
+248
+00:25:20,840 --> 00:25:23,120
+Autotallin ovi sulkeutuu.
+
+249
+00:25:25,160 --> 00:25:30,640
+Voit laskea vähän.
+Siellä on hyvin kovaa.
+
+250
+00:25:30,800 --> 00:25:33,160
+Olen laskenut nyt.
+
+251
+00:25:33,320 --> 00:25:36,680
+Se oli hieman pettymys.
+
+252
+00:25:36,840 --> 00:25:42,040
+Ymmärsin, että he olivat päässeet sisään
+ja ottaneet kodin haltuunsa.
+
+253
+00:25:43,040 --> 00:25:46,440
+"Syylliseksi todettu."
+
+254
+00:25:46,600 --> 00:25:50,840
+Tule, näytän sinulle jotain.
+Olet sankari.
+
+255
+00:25:51,000 --> 00:25:55,480
+Herra Jumala, kuinka monta yksikköä sinulla on!
+Suuri kohteliaisuus, siis.
+
+256
+00:25:55,640 --> 00:26:00,720
+-Hyvä työ. Olet onnistunut.
+-Ei ilman, että repisimme hiuksemme.
+
+257
+00:26:00,880 --> 00:26:05,480
+-Se oli melkoinen taistelu.
+-Voi, sinulla on niin paljon tavaraa. Hienoa.
+
+258
+00:26:05,640 --> 00:26:08,840
+En uskonut,
+että he pääsisivät sisään.
+
+259
+00:26:09,000 --> 00:26:15,120
+Suurin epämukavuus tuli, kun
+näin laitteet verkossa wifi:ssäni
+
+260
+00:26:15,280 --> 00:26:20,600
+-joka ei ole IoT-wifini.
+Silloin tunsin, että taistelu oli menetetty.
+
+261
+00:26:20,760 --> 00:26:25,440
+Eilen olimme täällä ja yhdistimme
+Olympus-verkkoon.
+
+262
+00:26:25,600 --> 00:26:31,440
+Meillä oli "käyttöoikeustokenit" ja kaikki, ja
+voimme puhua "kotiassistentillesi".
+
+263
+00:26:31,600 --> 00:26:36,960
+Avasimme autotallin oven
+ja sytytimme jossain talossa valon.
+
+264
+00:26:37,120 --> 00:26:40,160
+Aukesiko se eilen illalla?
+En huomannut sitä.
+
+265
+00:26:40,320 --> 00:26:46,760
+Eilen tunsin olevani hyvin varma,
+että he eivät tulisi pidemmälle.
+
+266
+00:26:46,920 --> 00:26:50,920
+Mutta olin väärässä, ja he pääsivät sisään.
+
+267
+00:26:52,960 --> 00:26:57,240
+Hakkerit saivat jalansijan
+älykotiverkossa.
+
+268
+00:26:57,400 --> 00:27:02,560
+He saivat pääsyn ja hakkeroivat verkon,
+joka hallitsi kaikkia IoT-laitteita.
+
+269
+00:27:02,720 --> 00:27:07,960
+Tästä asemasta
+
+270
+00:27:11,200 --> 00:27:15,200
+Toimittajien on toimitettava
+turvallisia tuotteita
+
+271
+00:27:15,360 --> 00:27:18,240
+    ja oltava sertifioituja tai merkittyjä.
+
+272
+00:27:18,400 --> 00:27:22,320
+Kaikkien Ruotsissa ei koskaan tarvitse
+olla IT-turvallisuuden asiantuntijoita.
+
+273
+00:27:22,480 --> 00:27:28,640
+Ymmärrämme kuitenkin, jos tuotteella on
+turvallisuustarra.
+
+274
+00:27:28,800 --> 00:27:33,960
+Meidän on suojeltava kotejamme, joten
+jos kaikki on liitetty
+
+275
+00:27:34,120 --> 00:27:40,760
+-ei pelkästään reitittimen vaan kaiken muun,
+sitten sinun pitäisi olla turvallisella salasanalla.
+
+276
+00:27:40,920 --> 00:27:45,920
+Muuten pahikset tulevat kotiisi,
+riippumatta siitä, kuinka paljon lukitset.
+
+277
+00:27:49,840 --> 00:27:53,480
+Katso tätä! Kirjautuneena sisään nimellä AppleStoffe.
+
+278
+00:27:53,640 --> 00:27:56,680
+Vaihda numero salasanassa.
+
+279
+00:27:56,840 --> 00:28:00,280
+Ymmärrän todella,
+etten ole täydellinen.
+
+280
+00:28:00,440 --> 00:28:06,040
+Aiomme hakata Therése Lindgrenin
+ja ottaa haltuunsa hänen verkkotunnuksensa.
+

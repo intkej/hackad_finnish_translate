@@ -1,0 +1,1627 @@
+1
+00:00:00,080 --> 00:00:03,440
+Nyt on kello 09.08. - Anders!
+
+2
+00:00:03,600 --> 00:00:07,760
+Nyt on kello 09.08, ja asennan
+juuri ensimmäistä tuotetta.
+
+3
+00:00:07,920 --> 00:00:13,640
+Linus löysi hänet keskustasta
+ja tekeytyi jonkinlaiseksi faniksi –
+
+4
+00:00:13,800 --> 00:00:15,880
+    ja halusi selfien.
+
+5
+00:00:16,040 --> 00:00:20,240
+Anteeksi, Therese Lindgren?
+Tyttäreni katsoo sinua YouTubessa.
+
+6
+00:00:20,400 --> 00:00:23,920
+    Voinko ottaa selfien?
+    Tietenkin.
+
+7
+00:00:24,080 --> 00:00:29,920
+Ihmiset laskevat vähän
+varuillaan lasten kanssa.
+
+8
+00:00:30,080 --> 00:00:35,440
+Se on ilkeä taktiikka,
+mutta niin se on verkossa. Siellä ei ole sääntöjä.
+
+9
+00:00:35,600 --> 00:00:38,720
+Mitä toimitusjohtaja sanoo
+itsensä suojelemisesta verkossa?
+
+10
+00:00:38,880 --> 00:00:42,880
+Sinulla on salasana ja kaksoissalasana.
+
+11
+00:00:43,040 --> 00:00:47,360
+-Hänellä olisi pitänyt olla
+kolmoissalasana! -Toivottavasti hänellä on.
+
+12
+00:00:47,520 --> 00:00:51,160
+Ja tiedätkö, mikä heidän salasanansa oli?
+
+13
+00:00:51,320 --> 00:00:54,800
+En vitsaile. Heillä oli Password01.
+
+14
+00:00:54,960 --> 00:01:00,880
+Rakastan "Svenska Nyheteriä", joten
+oli hauskaa iskeä takaisin.
+
+15
+00:01:01,040 --> 00:01:05,800
+SVT antaa ammattilaisten
+hakkeroida yksityishenkilöitä ja yrityksiä -
+
+16
+00:01:05,960 --> 00:01:10,200
+-Näyttääkseen haavoittuvuudet
+yhteiskunnassamme.
+
+17
+00:01:10,360 --> 00:01:14,400
+David, Linus, Jesper ja Jinny
+sai 48 tuntia hakata –
+
+18
+00:01:14,560 --> 00:01:18,880
+-kaksi julkisuuden henkilöä:
+vaikuttaja Therese Lindgren –
+
+19
+00:01:19,160 --> 00:01:23,280
+Ja juontaja Kristoffer Appelquist.
+
+20
+00:01:23,440 --> 00:01:28,400
+Tunkeutuakseen ja kaapatakseen
+heidän suurimmat ja tärkeimmät verkkotilinsä.
+
+21
+00:01:34,040 --> 00:01:38,120
+Salasana01...
+Mietin, uskovatko asiantuntijat –
+
+22
+00:01:38,280 --> 00:01:43,240
+    että todella on rikollisia
+    superaivoja tämän takana.
+
+23
+00:01:43,400 --> 00:01:48,640
+Mutta hallitus tarvitsee apua
+pitääkseen tietoturvan kohtuullisena.
+
+24
+00:01:48,800 --> 00:01:52,800
+Olemme tutkineet hänen verkkoseurantaansa.
+
+25
+00:01:52,960 --> 00:01:57,840
+Olemme tarkistaneet vuotaneista tietokannoista
+ja löytäneet joitain salasanoja.
+
+26
+00:01:58,000 --> 00:02:02,080
+Luultavasti vanhoja salasanoja
+vuotaneista vanhoista tileistä.
+
+27
+00:02:02,240 --> 00:02:05,240
+Tarkistimme hänen sivunsa verkossa.
+
+28
+00:02:05,400 --> 00:02:09,600
+Usein ihmiset ovat jo hakkeroinut
+tietämättään.
+
+29
+00:02:09,760 --> 00:02:14,240
+Internetissä on paljon tietoa myynnissä.
+Esimerkiksi osoitteesi tai sähköpostisi salasana.
+
+30
+00:02:14,400 --> 00:02:19,800
+Ne ovat uskomattoman halpoja ostaa,
+joten voit ostaa niitä miljoonia.
+
+31
+00:02:19,960 --> 00:02:25,080
+Sitten jos valitsen sinut,
+voin kokeilla salasanaa –
+
+32
+00:02:25,240 --> 00:02:29,960
+-koska monet käyttävät samaa salasanaa
+useassa paikassa.
+
+33
+00:02:30,120 --> 00:02:34,520
+Se on pääasiassa kaksi salasanaa,
+joihin hän on hyvin ihastunut.
+
+34
+00:02:34,680 --> 00:02:38,720
+-Ei hän ole salasanojen mestari?
+-Ei.
+
+35
+00:02:38,880 --> 00:02:42,280
+"Katamaran" on käytetty useammin
+kuin kerran. Sitten paras salasana –
+
+36
+00:02:42,440 --> 00:02:47,320
+-Joka tekee hänestä mukavan:
+"hatasj". Hän on todennäköisesti matkustanut paljon.
+
+37
+00:02:47,480 --> 00:02:52,520
+On aika turhauttavaa, koska olemme
+testanneet löytämämme salasanat.
+
+38
+00:02:52,680 --> 00:02:57,800
+Mikään ei toimi.
+Linus ja minä olemme koodanneet hienon asian.
+
+39
+00:02:57,960 --> 00:03:05,120
+Ei toimi.
+Meidän on jotenkin toimitettava
+jokin koodi, takaportti.
+
+40
+00:03:05,280 --> 00:03:08,520
+Meidän on saatava pääsy
+hänen tietokoneeseensa.
+
+41
+00:03:08,680 --> 00:03:14,120
+Sen pitäisi toimia. Emme epäonnistu.
+
+42
+00:03:14,280 --> 00:03:18,800
+Tarvitsemme pääsyn
+hänen tietokoneensa laitteeseen.
+
+43
+00:03:18,960 --> 00:03:22,080
+Sen pitäisi toimia.
+Emme epäonnistu.
+
+44
+00:03:22,240 --> 00:03:27,440
+Paljon ihmisiä täällä nyt.
+MEIDÄN ON saatava pääsy hänen kannettavaansa.
+
+45
+00:03:27,600 --> 00:03:31,640
+Emme voi tehdä sitä ulkopuolelta
+meillä olevassa ajassa.
+
+46
+00:03:31,800 --> 00:03:37,640
+-Kyllä... Se on huijausta, mutta...
+-Joo, mutta pyydät meitä tekemään taikoja.
+
+47
+00:03:37,800 --> 00:03:43,880
+Saatamme hyvin vähän aikaa tehdä
+jotain, mikä vie hemmetin kauan aikaa.
+
+48
+00:03:44,040 --> 00:03:47,760
+Kun kalastat ihmisten salasanoja –
+
+49
+00:03:47,920 --> 00:03:54,000
+-lähetät 10 000 sähköpostia.
+Joku lopulta puree syöttiin.
+
+50
+00:03:54,160 --> 00:03:58,440
+Täällä pyydät meitä
+menemään vain... / SORMEN NAPS! /
+
+51
+00:03:58,600 --> 00:04:02,800
+-Se ei ole mahdollista.
+-Jos saamme hänet pois tietokoneelta...
+
+52
+00:04:02,960 --> 00:04:07,840
+Se on klassinen juttu, jonka ihmiset tekevät,
+he jättävät tietokoneensa lukitsemattomaksi.
+
+53
+00:04:08,000 --> 00:04:11,760
+Kristoffer on hyväksynyt
+hakkeroinnin.
+
+54
+00:04:11,920 --> 00:04:16,080
+Ainoa asia, jonka hän tietää,
+on, että se tapahtuu lähiviikkoina –
+
+55
+00:04:16,240 --> 00:04:19,440
+    ja että häntä haastatellaan SVT:lle.
+
+56
+00:04:19,600 --> 00:04:24,640
+Liityn mukaasi. Lainaan kameraa.
+En tiedä miten se toimii, mutta...
+
+57
+00:04:24,800 --> 00:04:30,520
+Olen kotoisin Göteborgista, kyllä se menee.
+Ainoa huijaus, mitä pyydät meitä tekemään...
+
+58
+00:04:30,680 --> 00:04:34,760
+...on pääsy tietokoneeseen
+minuutiksi.
+
+59
+00:04:35,920 --> 00:04:41,080
+Pääset mukaan, ja jos voit tehdä asioita
+hänen tietokoneellaan, saat tehdä sen.
+
+60
+00:04:56,120 --> 00:05:01,040
+Luen kommentteja.
+Etsin...
+
+61
+00:05:04,680 --> 00:05:09,440
+...kieltä ja sanoja, joita voin käyttää
+kalasteluviestissä.
+
+62
+00:05:09,600 --> 00:05:14,280
+Kalastelu on, kun lähetät sähköpostia
+ja väität olevasi joku –
+
+63
+00:05:14,440 --> 00:05:21,160
+-Ja yrität sitten huijata vastaanottajan
+ajamaan tiedostoa tai napsauttamaan linkkiä -
+
+64
+00:05:21,320 --> 00:05:26,680
+-Jossa he saattavat joutua kirjautumaan sisään
+salasanalla tai vastaavalla.
+
+65
+00:05:27,600 --> 00:05:32,160
+Uusi identiteettimme
+on Frida Kvarnesson.
+
+66
+00:05:32,320 --> 00:05:37,200
+En edes tiedä, onko se oikea nimi,
+mutta nyt se on sitä joka tapauksessa.
+
+67
+00:05:40,880 --> 00:05:44,920
+Meillä on kaikki tämä materiaali
+tämän hahmon luomiseen -
+
+68
+00:05:45,080 --> 00:05:49,520
+    ja toivottavasti
+    saada Therese tuntemaan olonsa turvalliseksi -
+
+69
+00:05:49,680 --> 00:05:53,720
+    että kyseessä on lapsi
+    eikä joku, joka voi satuttaa häntä.
+
+70
+00:05:53,880 --> 00:05:58,920
+Toivomme, että se lisää mahdollisuutta,
+että hän antaa meille kirjautumistietonsa.
+
+71
+00:06:02,160 --> 00:06:07,920
+Minulle on epämukavaa kirjautua sisään
+etusormellani. Ihan sellainen juttu vain.
+
+72
+00:06:08,080 --> 00:06:12,600
+Aloin meikkikanavan
+YouTubessa, mutta vasta vuoden kuluttua –
+
+73
+00:06:12,760 --> 00:06:16,760
+    aloin mainita,
+    että kärsin paniikkihäiriöstä.
+
+74
+00:06:16,920 --> 00:06:22,080
+Sitten sain paljon kysymyksiä
+mielenterveysongelmista ja henkilökohtaisista asioista.
+
+75
+00:06:22,240 --> 00:06:27,440
+Muutin sisältöäni hieman
+siihen suuntaan, mistä katsojani –
+
+76
+00:06:27,600 --> 00:06:31,760
+    olivat kiinnostuneita.
+    Se sopi minulle paljon paremmin.
+
+77
+00:06:31,920 --> 00:06:35,960
+Nykyään se on lifestyle-kanava.
+Nauhoitan päiviäni.
+
+78
+00:06:36,120 --> 00:06:40,640
+Tänään minulla on miljoona seuraajaa
+sekä YouTubessa että Instagramissa.
+
+79
+00:06:40,800 --> 00:06:46,320
+Olen todellinen kontrollifriikki,
+joten tuntuu epämukavalta, että en ole ...
+
+80
+00:06:46,480 --> 00:06:50,600
+...todella hallinnassa
+teknisten asioiden suhteen.
+
+81
+00:06:50,760 --> 00:06:56,280
+Jos YouTube-kanavani katoaa,
+koska joku hakkeroi sen -
+
+82
+00:06:56,440 --> 00:07:01,520
+-Tai mitä tahansa voi tapahtua verkossa,
+en tiedä mitä teen.
+
+83
+00:07:01,680 --> 00:07:07,640
+Minulla ei ole Youtuben numeroa,
+joka voi ratkaista sen. Se on pelottavaa.
+
+84
+00:07:07,800 --> 00:07:13,560
+Olen hyvin haavoittuva. Joka päivä saan
+tekstiviestejä Snapchatista, Instagramista ...
+
+85
+00:07:13,720 --> 00:07:18,840
+... ja Facebookista, jotka sanovat:
+"Tämä on koodi kirjautumiseen."
+
+86
+00:07:19,000 --> 00:07:24,640
+Kaksivaiheinen vahvistus. Niin moni
+ihminen yrittää päästä tileilleni.
+
+87
+00:07:24,800 --> 00:07:30,000
+Mutta tähän mennessä en ole koskaan
+ollut hakkeroinnin uhri.
+
+88
+00:07:31,120 --> 00:07:33,280
+"Hei, Tessan!"
+
+89
+00:07:33,440 --> 00:07:39,160
+"Isäni tapasi sinut
+keskustassa."
+
+90
+00:07:41,160 --> 00:07:44,680
+Voimme laittaa tähän sydänemojin.
+
+91
+00:07:44,840 --> 00:07:48,200
+Toivottavasti
+hän napsauttaa linkkiä -
+
+92
+00:07:48,360 --> 00:07:53,040
+Ja pääsee kirjautumissivulle
+hänen YouTube-tililleen -
+
+93
+00:07:53,200 --> 00:07:58,240
+    jonka olemme luoneet - väärennetyn sivun.
+    Häneltä pyydetään kirjautumista YouTubeen.
+
+94
+00:07:58,400 --> 00:08:03,480
+Toivottavasti hän ei epäröi
+ja syöttää tietonsa.
+
+95
+00:08:03,640 --> 00:08:07,720
+Sitten meillä on ne
+ja voimme kirjautua hänen YouTubeen.
+
+96
+00:08:07,880 --> 00:08:12,480
+Ajattelen olevani melko
+varautunut. Se todennäköisesti kostautuu.
+
+97
+00:08:12,640 --> 00:08:18,040
+Mutta en tallenna salasanojani
+niin, että ne täytetään automaattisesti.
+
+98
+00:08:18,200 --> 00:08:21,960
+Kun syötän
+luottokorttinumeron -
+
+99
+00:08:22,120 --> 00:08:27,200
+-Se kysyy, haluanko tallentaa sen,
+mutta painan aina ei.
+
+100
+00:08:27,360 --> 00:08:31,480
+Yleensä
+suljen sijaintipalvelut sovelluksissa.
+
+101
+00:08:31,640 --> 00:08:37,120
+Mietin sitä vielä hieman, verrattuna
+kumppaniini, joka vain painaa kyllä.
+
+102
+00:08:37,280 --> 00:08:43,640
+Kalastus on taustalla 50–70 %
+kaikista tietomurroista. Se on avain-
+
+103
+00:08:43,800 --> 00:08:49,200
+    monimutkaisimpiin rikoksiin,
+    joita maailmassa on. Se on itse sähköposti ...
+
+104
+00:08:49,360 --> 00:08:55,320
+Tilastokeskuksen mukaan sitä lähetettiin
+kolmelle miljoonalle ruotsalaiselle joitakin vuosia sitten –
+
+105
+00:08:55,480 --> 00:08:59,680
+–Tämäntyyppisiä sähköposteja.
+Ja tiedän, että niitä on vielä enemmän.
+
+106
+00:08:59,840 --> 00:09:06,640
+Joten se on rikos, jossa
+käytetään eniten internetin voimaa.
+
+107
+00:09:06,800 --> 00:09:10,880
+Se on yksinkertainen tapa
+huijata suurta joukkoa ihmisiä.
+
+108
+00:09:11,040 --> 00:09:16,720
+Riittää, että muutama henkilö siihen lankeaa,
+jotta niiden takana olevat saavat ansaittuaan-
+
+109
+00:09:16,880 --> 00:09:21,480
+-uskomattoman määrän rahaa.
+Siinä on valtava määrä rahaa.
+
+110
+00:09:26,720 --> 00:09:31,840
+Suunnitelma on yrittää tartuttaa
+Kristofferin kannettava tietokone takaportilla.
+
+111
+00:09:32,000 --> 00:09:36,000
+Piilotettu ohjelma, joka antaa meille
+etäyhteyden siihen-
+
+112
+00:09:36,160 --> 00:09:38,840
+-jotta voimme vakoilla käyttäjää.
+
+113
+00:09:39,000 --> 00:09:45,040
+Mutta monet muuttujat ja esteet
+vaikeuttavat sitä, ja aikaa on vähän.
+
+114
+00:09:47,200 --> 00:09:51,240
+Epäilyjen välttämiseksi
+Jesper teeskentelee olevansa valokuvaaja.
+
+115
+00:09:51,400 --> 00:09:56,040
+Tavoitteena on ajaa haitallinen koodi
+Kristofferin tietokoneelle USB:n kautta
+
+116
+00:09:56,200 --> 00:09:59,240
+    ilman että hän huomaa.
+
+117
+00:10:01,680 --> 00:10:06,240
+-Hei! Tervetuloa.
+-Kiitos. Olen Jesper.
+
+118
+00:10:06,400 --> 00:10:10,880
+Minulla on kamera,
+ja teeskentelin kuuluvani joukkoon.
+
+119
+00:10:11,040 --> 00:10:15,600
+Kävelin ympäri huonetta
+ja teeskentelin olevani yksi tiimistä.
+
+120
+00:10:15,760 --> 00:10:20,240
+Sillä välin minulla oli yhteys
+kollegoihini ulkopuolella.
+
+121
+00:10:20,400 --> 00:10:24,600
+Jokainen Ocean's Thirteenista,
+joka aikoo ryöstää pankin
+
+122
+00:10:24,760 --> 00:10:30,000
+-Mutta ei ole vielä saanut
+piirustuksia, voi rentoutua.
+
+123
+00:10:30,160 --> 00:10:34,800
+Tällaiset piirustukset ovat vuotaneet!
+Keitä nämä hakkerit ovat?
+
+124
+00:10:34,960 --> 00:10:40,080
+He ovat nerokkaita. Meidän on tehtävä
+entistä kovemmin töitä pysyäksemme mukana.
+
+125
+00:10:40,240 --> 00:10:44,520
+Olen SVT:n TV-isäntä
+ja juon Svenska Nyheteriä.
+
+126
+00:10:44,680 --> 00:10:48,680
+Teen sitä kokopäiväisesti
+20 viikkoa vuodessa.
+
+127
+00:10:48,840 --> 00:10:53,400
+Muuten teen podcasteja, joita nauhoitamme ja editoimme täällä.
+
+128
+00:10:53,560 --> 00:11:00,080
+Valmistellaan haastattelua. Ota kuva, kun Jesper istuu.
+
+129
+00:11:00,240 --> 00:11:03,920
+Otan yhden täällä, kun se on tyhjä.
+
+130
+00:11:08,680 --> 00:11:13,920
+Kun poistuit ja teit haastattelun, olin yksin yhdessä huoneista.
+
+131
+00:11:14,080 --> 00:11:19,240
+Välissä ei ollut ovea. Olisin voinut pistää häntä niskaan.
+
+132
+00:11:19,400 --> 00:11:23,720
+Hyvin lähellä! Ei tarvita paljon ääntä, että joku kääntyy ympäri.
+
+133
+00:11:23,880 --> 00:11:26,960
+Kun tiimi valmistautuu haastatteluun -
+
+134
+00:11:27,120 --> 00:11:33,200
+    David ja Linus ajavat Thereseen asunnolle asettamaan lisää ansoja.
+
+135
+00:11:33,360 --> 00:11:39,240
+-Onko sinulla hänen osoitettaan?
+-Ei, minulla ei ole sitä.
+
+136
+00:11:39,400 --> 00:11:42,400
+-Pitäisikö minun hoitaa se?
+-Kyllä, tee se.
+
+137
+00:11:42,560 --> 00:11:47,600
+Therese: Pahin, mikä voi tapahtua, on kaikki, mikä uhkaa turvallisuuttani.
+
+138
+00:11:47,760 --> 00:11:50,920
+Tarvitaan vain yksi hullu henkilö -
+
+139
+00:11:51,080 --> 00:11:56,200
+    tekemään tilanteesta hyvin epämukava minulle ja perheelleni.
+
+140
+00:11:58,360 --> 00:12:02,960
+Pahin, mikä voi tapahtua, on yksityisten tietojen leviäminen -
+
+141
+00:12:03,120 --> 00:12:10,480
+-kuten puhelinnumero ja osoite, ja
+väärän henkilön käyttävän niitä minua vastaan.
+
+142
+00:12:11,400 --> 00:12:15,520
+David valmistelee kirjekuorta hänen osoitteellaan –
+
+143
+00:12:15,680 --> 00:12:21,080
+Ja kirjettä USB-tikun kanssa, usb-muistia.
+
+144
+00:12:21,240 --> 00:12:27,960
+Siinä on takaportti. Se näyttää pdf-tiedostolta, mutta on takaportti.
+
+145
+00:12:28,120 --> 00:12:31,240
+Jätämme sen hänen postilaatikkoonsa.
+
+146
+00:12:31,400 --> 00:12:35,400
+Huijaamme häntä avaamaan tiedoston.
+
+147
+00:12:35,560 --> 00:12:39,080
+Sanomme, että ehdotamme häntä palkittavaksi –
+
+148
+00:12:39,240 --> 00:12:44,200
+-Koska hän on hyvä vaikuttaja
+ja on tehnyt vaivaa.
+
+149
+00:12:44,360 --> 00:12:47,880
+Tarkistan,
+voinko hyökätä hänen wifiinsa.
+
+150
+00:12:48,040 --> 00:12:52,400
+Se voisi toimia
+tai epäonnistua täysin, mutta tässä mennään.
+
+151
+00:12:52,560 --> 00:12:57,600
+David ja minä odotimme ulkopuolella hänen porttiaan, että joku menisi sisään.
+
+152
+00:12:57,760 --> 00:13:02,000
+Sitten suunnitelmana oli seurata.
+Sisään tuli kaksi henkilöä -
+
+153
+00:13:02,160 --> 00:13:07,240
+-Jotka menivät viereiseen porttiin,
+joten menimme sinne sen sijaan.
+
+154
+00:13:07,400 --> 00:13:12,520
+Selvisi, että pääsimme hänen rappuunsa myös siitä portista.
+
+155
+00:13:18,240 --> 00:13:22,280
+Minulla on koodi oven avaamiseen,
+jos haluamme palata.
+
+156
+00:13:22,440 --> 00:13:27,480
+USB-tikku on toimitettu. Jos hän liittää sen kannettavaan ja avaa tiedoston –
+
+157
+00:13:27,640 --> 00:13:31,720
+    saamme pääsyn hänen tietokoneeseensa
+    ja voimme varastaa salaisuuksia –
+
+158
+00:13:31,880 --> 00:13:34,960
+    ja ehkä pääsy salasanaan.
+
+159
+00:13:35,120 --> 00:13:38,720
+Olemme tallentaneet signaaleja wifiistä.
+
+160
+00:13:38,880 --> 00:13:41,920
+Jos murramme wifi-salasanan, palaamme.
+
+161
+00:13:42,080 --> 00:13:45,920
+Yritämme
+mahdollisimman monia hyökkäyspintoja –
+
+162
+00:13:46,080 --> 00:13:49,240
+    sen sijaan, että panisimme kaikki munat yhteen koriin.
+
+163
+00:13:50,520 --> 00:13:55,640
+Riski on, että se ei toimi.
+Hän ei ehkä edes lue sähköpostia.
+
+164
+00:13:55,800 --> 00:13:59,840
+Joku muu saattaa käsitellä hänen sähköpostejaan.
+Paljon voi mennä pieleen.
+
+165
+00:14:00,000 --> 00:14:04,720
+Siksi heitämme laajaa verkkoa,
+lisätäksemme mahdollisuutta onnistumiseen.
+
+166
+00:14:09,840 --> 00:14:14,680
+Sovimme, että
+sinun pitäisi haastaa valtuutuksesi.
+
+167
+00:14:14,840 --> 00:14:20,240
+Mielenkiintoisia asioita tapahtuu siellä,
+oli sitten isäntä -
+
+168
+00:14:20,400 --> 00:14:23,560
+-Tai koulun rehtori.
+
+169
+00:14:23,720 --> 00:14:29,120
+Haasta, mitä sinulle on sallittu,
+ja harkitse, mitä mieluummin tekisit –
+
+170
+00:14:29,280 --> 00:14:33,320
+    ja yritä puristaa se
+    valtuutukseesi.
+
+171
+00:14:33,480 --> 00:14:37,760
+Se tulee paljon hauskemmaksi,
+jos teet sen.
+
+172
+00:14:37,920 --> 00:14:43,560
+Mitä tapahtuu, tapahtuu. USB
+asentaa tiedostoja paikallisesti –
+
+173
+00:14:43,720 --> 00:14:48,680
+-Mutta lähettää myös kaksi yhteyttä
+palvelimellemme.
+
+174
+00:14:48,840 --> 00:14:51,440
+Älvsjö. Se toimii.
+
+175
+00:14:54,920 --> 00:14:59,040
+-Mahdollisesti USB.
+Kyllä, kyllä, kyllä!
+
+176
+00:14:59,200 --> 00:15:02,560
+Epäilen,
+että lähestymistapani tietoturvaan –
+
+177
+00:15:02,720 --> 00:15:06,840
+-on hieman kuin ihmisten asenne
+turvallisuuteen merellä.
+
+178
+00:15:07,000 --> 00:15:11,480
+"En tarvitse pelastusliiviä,
+koska en koskaan mene reunan lähelle."
+
+179
+00:15:11,640 --> 00:15:16,680
+Ajattelet yhtä askelta liian lyhyesti.
+Jos on tulipalo, sinun on hypättävä yli laidan.
+
+180
+00:15:16,840 --> 00:15:20,880
+Sitten selviytymisen ja kuoleman ero on pelastusliivi.
+
+181
+00:15:21,040 --> 00:15:27,400
+Et ymmärrä, mitä teet.
+Mutta en usko olevani pahin.
+
+182
+00:15:27,560 --> 00:15:32,640
+Olen silti joskus ponnistellut.
+En halua olla se tyyppi, joka ei halunnut –
+
+183
+00:15:32,800 --> 00:15:37,320
+    että autoja olisi,
+    koska hevoset olivat turvallisempia.
+
+184
+00:15:37,480 --> 00:15:40,680
+Näin se menee.
+
+185
+00:15:40,840 --> 00:15:44,920
+Ei ole mitään pahempaa
+kuin istua sisäisessä järjestelmässä -
+
+186
+00:15:45,080 --> 00:15:49,560
+    kuten eräs nimeltä Leif on luonut, joka imee –
+
+187
+00:15:49,720 --> 00:15:54,480
+-vain välttääkseen
+aterioiden jakamista.
+
+188
+00:15:54,640 --> 00:15:59,720
+    Silicon Valleyin kanssa. Joka tapauksessa he löytävät sen jostain.
+
+189
+00:15:59,880 --> 00:16:03,960
+En voi tehdä asialle mitään.
+Sovittele sen kanssa.
+
+190
+00:16:06,360 --> 00:16:10,040
+-Onko se yhä avoinna?
+-Kyllä.
+
+191
+00:16:10,200 --> 00:16:13,240
+-Nyt!
+-Kyllä! Olemme sisällä!
+
+192
+00:16:14,240 --> 00:16:18,560
+Meillä on pääsy käytännössä kaikkiin tiedostoihin, ja lataamme niitä.
+
+193
+00:16:18,720 --> 00:16:22,760
+Dokumentteja, valokuvia,
+mutta ennen kaikkea salasanoja.
+
+194
+00:16:22,920 --> 00:16:29,640
+Latasimme kaiken, mikä voi sisältää salasanoja, kuten selaimet.
+
+195
+00:16:29,800 --> 00:16:34,560
+-Kiitos paljon. Nähdään illalla.
+-Kyllä, nähdään.
+
+196
+00:16:35,520 --> 00:16:39,600
+Vaikka hakkerit pääsevät käsiksi Kristofferin tietokoneeseen -
+
+197
+00:16:39,760 --> 00:16:45,160
+    heidän on saatava salasanat.
+    Tässä tulee avuksi avainnippu.
+
+198
+00:16:45,320 --> 00:16:49,640
+Avainnippu on salattu säiliö, johon tietokone tallentaa salasanat
+
+199
+00:16:49,800 --> 00:16:55,960
+PIN-koodit ja luottokorttitiedot.
+Hakkereille se on aarreaitta.
+
+200
+00:16:56,120 --> 00:17:00,280
+Ongelma on,
+että lukko on vahva ja vaikea murtaa.
+
+201
+00:17:06,560 --> 00:17:09,880
+Olet tällä hetkellä ensimmäisenä jonossa.
+
+202
+00:17:10,040 --> 00:17:15,800
+Ihmiset käyttävät usein samaa perustaa
+valitessaan salasanoja.
+
+203
+00:17:15,960 --> 00:17:21,040
+On todella yleistä, että ihmiset
+lisäävät vuoden ja erikoismerkin.
+
+204
+00:17:21,200 --> 00:17:26,360
+Joten että hänellä on yksi hänen entisistä
+tunnetuista salasanoistaan vuoden jälkeen –
+
+205
+00:17:26,520 --> 00:17:29,560
+    on jotain, mitä meidän täytyy yrittää.
+
+206
+00:17:29,720 --> 00:17:33,200
+Tervetuloa verotietoihin.
+
+207
+00:17:33,360 --> 00:17:39,800
+Hei. Nimeni on Linus. Haluan joitakin
+tietoja henkilön lapsesta.
+
+208
+00:17:39,960 --> 00:17:42,960
+Katsotaan, mitä tietoja meillä on.
+
+209
+00:17:43,120 --> 00:17:47,640
+Ruotsin verovirastoa on helppo soittaa,
+se on kuin avoin kirja.
+
+210
+00:17:47,800 --> 00:17:50,920
+-Onko tämä koskee Kristoffer Appelquistia?
+-Kyllä.
+
+211
+00:17:51,080 --> 00:17:56,280
+Kaksi täysi-ikäistä lasta ja alaikäinen.
+Haluaako tietää, kuka heistä on aikuinen?
+
+212
+00:17:56,440 --> 00:17:58,600
+Kaikki.
+
+213
+00:17:58,760 --> 00:18:02,240
+-Oliko osoitteet, joita halusitte?
+–Henkilötunnukset.
+
+214
+00:18:02,400 --> 00:18:08,360
+Jotain, mitä tiedämme yleiseksi,
+on käyttää lasten syntymävuotta.
+
+215
+00:18:08,520 --> 00:18:12,200
+-Vain ensimmäiset kuusi numeroa?
+    Ei, kaikki.
+
+216
+00:18:12,360 --> 00:18:17,160
+-Hienoa. Kiitos paljon.
+-Kiitos. Hei hei.
+
+217
+00:18:17,320 --> 00:18:22,280
+Tämä ei ole Tanska,
+jossa on puoliselkeitä henkilötunnuksia.
+
+218
+00:18:22,440 --> 00:18:28,480
+Arvasimme salasanoja hullun lailla.
+Aika hidasta Apple Keychainia vastaan.
+
+219
+00:18:28,640 --> 00:18:34,160
+Se eteni hitaasti. Tunnetunnit kuluivat.
+Meillä oli määräaika kello 20:00.
+
+220
+00:18:34,320 --> 00:18:40,120
+Minun täytyy lopettaa nyt.
+Minulla ei vain ole tarpeeksi aikaa.
+
+221
+00:18:40,280 --> 00:18:44,680
+    Therese?
+    -Kyllä. Se tulee olemaan vaikeaa.
+
+222
+00:18:44,840 --> 00:18:48,840
+Yritimme murtaa hänen wifiään,
+mutta epäonnistuimme.
+
+223
+00:18:49,000 --> 00:18:53,320
+Laitoimme kirjeen usb-muistilla
+hänen postilaatikkoonsa.
+
+224
+00:18:53,480 --> 00:19:00,200
+Hän ei ole näyttänyt liittävän sitä.
+Meillä on vielä kalastushyökkäys.
+
+225
+00:19:00,360 --> 00:19:06,560
+Voin kuvitella, että Theresen päivä
+alkaa aamukahvilla.
+
+226
+00:19:06,720 --> 00:19:11,800
+Sitten hän avaa tietokoneensa,
+ja siellä on 56 000 lukematonta sähköpostia.
+
+227
+00:19:11,960 --> 00:19:17,200
+Selaa, selaa. "Aloitetaan työ."
+En usko, että hänellä on aikaa.
+
+228
+00:19:17,360 --> 00:19:22,680
+Eilisestä lähtien olen saanut tekstiviestejä,
+jotka näyttävät erilaisilta.
+
+229
+00:19:22,840 --> 00:19:28,200
+Se on tekstiviesti aasialaisin merkein,
+en tiedä mikä kieli. Ja...
+
+230
+00:19:30,320 --> 00:19:34,440
+Ja eilen kun istuin YouTubessa,
+olin kirjautunut ulos.
+
+231
+00:19:34,600 --> 00:19:39,000
+Kumppanini kysyi: "Tapahtuuko tämä yleensä?"
+Ei ole tapahtunut kahdeksaan vuoteen -
+
+232
+00:19:39,160 --> 00:19:44,480
+-että minut kirjattiin yhtäkkiä ulos
+Googlesta ja YouTubesta.
+
+233
+00:19:44,640 --> 00:19:47,720
+Joten se oli outoa.
+
+234
+00:19:48,800 --> 00:19:53,880
+Hakkerit tajuavat, että aikaa ei ole
+sekä varastaa Theresen salasana -
+
+235
+00:19:54,040 --> 00:19:59,160
+-että päästä hänen kaksivaiheisen
+todennuksen ohi. Hakkerointi perutaan.
+
+236
+00:20:02,840 --> 00:20:06,440
+-Moi.
+-Moi! Hei!
+
+237
+00:20:07,360 --> 00:20:10,400
+-Miten menee?
+-Hyvin.
+
+238
+00:20:10,560 --> 00:20:15,040
+Olet kadulla
+tavannut fanin isän.
+
+239
+00:20:15,800 --> 00:20:18,440
+-Kyllä!.
+
+240
+00:20:18,600 --> 00:20:21,600
+Olin niin onnellinenkin.
+
+241
+00:20:21,760 --> 00:20:26,480
+Ja sitten sain sähköpostin hänen tyttäreltään
+ja tulin niin iloiseksi.
+
+242
+00:20:26,640 --> 00:20:32,160
+Klikkasin linkkiä, koska hän oli nähnyt
+jotain videossa. Klikkasin.
+
+243
+00:20:32,320 --> 00:20:34,840
+Mitä sitten tapahtui?
+
+244
+00:20:35,000 --> 00:20:40,640
+Ilmestyi, että minun pitäisi täyttää
+tietoni. Suljin sen sitten.
+
+245
+00:20:40,800 --> 00:20:45,560
+–Ah ...
+    Lähetimme sinulle kalasteluviestejä.
+
+246
+00:20:45,720 --> 00:20:48,200
+Tavoitteena oli saada sinut klikkaamaan -
+
+247
+00:20:48,360 --> 00:20:54,720
+-Ja toivottavasti, jossain vaiheessa
+kun et ole niin valppaana, kirjautumaan sisään–
+
+248
+00:20:54,880 --> 00:21:00,960
+-Ja sitten toivomme, että tiedot
+käytettiin muualla.
+
+249
+00:21:01,120 --> 00:21:06,440
+Voi ei! Oliko se kalastelua, kalastelu-
+sähköposti, kun lähetät linkkejä?
+
+250
+00:21:06,600 --> 00:21:10,640
+-Täsmälleen. "Nätfiske" ruotsiksi.
+-Ymmärrän.
+
+251
+00:21:10,800 --> 00:21:14,520
+Erittäin hienosti tehty, Therese!
+
+252
+00:21:14,680 --> 00:21:19,640
+Tämä oli hyvin epämiellyttävää,
+mutta myös erittäin mielenkiintoista.
+
+253
+00:21:19,800 --> 00:21:23,040
+-Oikein ystävällistä, Therese.
+-Kiitos paljon tästä päivästä.
+
+254
+00:21:23,200 --> 00:21:27,320
+Meidän kaikkien on parannettava
+turvallisuuttamme internetissä, puhuttava siitä.
+
+255
+00:21:27,480 --> 00:21:32,520
+Meidän on koulutettava itseämme
+ja toisiamme.
+
+256
+00:21:32,680 --> 00:21:36,720
+Meidän on asetettava vaatimuksia poliitikoille
+suurista ponnistuksista -
+
+257
+00:21:36,880 --> 00:21:41,920
+-kun kyse on tietoturvastamme.
+
+258
+00:21:42,080 --> 00:21:45,160
+Heidän on annettava enemmän rahaa
+poliisille –
+
+259
+00:21:45,320 --> 00:21:48,440
+-Jotta he voivat tutkia
+ja estää rikollisuutta internetissä.
+
+260
+00:21:48,600 --> 00:21:53,160
+Nämä ovat tärkeitä asioita.
+
+261
+00:21:53,320 --> 00:21:56,360
+Salasanojen on oltava ainutlaatuisia.
+Se on tärkeintä.
+
+262
+00:21:56,520 --> 00:22:01,160
+Koska jos yksi palvelu hakataan,
+sinun tarvitsee vain vaihtaa se salasana-
+
+263
+00:22:01,320 --> 00:22:06,320
+    etkä altista
+    itsesi vaaralle muilla sivustoilla.
+
+264
+00:22:06,480 --> 00:22:10,720
+Toiseksi sen on oltava pitkä
+    vähintään 12-15 merkkiä.
+
+265
+00:22:10,880 --> 00:22:16,040
+Lasten nimet - ei. Koiran nimi
+tai rekisterinumero - ei.
+
+266
+00:22:16,200 --> 00:22:20,240
+123456 - ei, nyt vakavasti!
+
+267
+00:22:20,400 --> 00:22:24,200
+Sen sijaan kuin merkkisoppa,
+voit käyttää lausetta. Voit sanoa:
+
+268
+00:22:24,360 --> 00:22:28,520
+"Äitini lauloi minulle kerran-
+kun nukuin".
+
+269
+00:22:28,680 --> 00:22:32,840
+Mitä pidempi, sitä vaikeampi murtua.
+Lauseiden muistaminen on helpompaa.
+
+270
+00:22:33,000 --> 00:22:39,480
+Mutta emme saa joutua muistamaan
+salasanoja - käytä salasananhallintaa!
+
+271
+00:22:39,640 --> 00:22:44,640
+Niitä on lukemattomia.
+Selvitä tarpeesi ja valitse työkalut.
+
+272
+00:22:44,800 --> 00:22:50,080
+Neuvotteluita on.
+Etsi tarpeesi ja valitse työkalut.
+
+273
+00:22:54,440 --> 00:22:57,920
+–Hei! Hyvää työtä!
+-Niin mahtavaa!
+
+274
+00:22:58,080 --> 00:23:03,640
+Läpimurto tapahtui, kun tietokoneeni
+mursi hänen avaimenketjunsa salasanan.
+
+275
+00:23:03,800 --> 00:23:08,000
+Se oli yhdistelmä hänen
+vanhasta salasanastaan "hatasj" -
+
+276
+00:23:08,160 --> 00:23:15,120
+Ja yhden hänen lastensa syntymävuodesta.
+Sitten aarrearkku avautui: avainnippu.
+
+277
+00:23:15,280 --> 00:23:21,280
+Nyt meillä kaikilla on salasanoja avainnipussa.
+Meillä on Chrome-kirjautumissalasanat.
+
+278
+00:23:21,440 --> 00:23:26,520
+Meidän on purettava se nyt,
+koska se sisältää enemmän salasanoja.
+
+279
+00:23:26,680 --> 00:23:33,760
+David onnistui purkamaan sen ja
+salaisuudet vain tulvivat ulos.
+
+280
+00:23:33,920 --> 00:23:39,440
+Meillä kaikilla on salasanat Chromen
+laajennuksille nyt. Kaikki!
+
+281
+00:23:39,600 --> 00:23:43,080
+–Kaikki tyynni!
+–162 erilaista. Hyvä.
+
+282
+00:23:43,240 --> 00:23:48,200
+-Voitko kirjautua Instagramiin, vai?
+-Mitä ilkeitä temppuja me teemme?
+
+283
+00:23:48,360 --> 00:23:52,520
+-Luulen, että kuva olisi hauska.
+-Voin tarkistaa Facebookin.
+
+284
+00:23:52,680 --> 00:23:54,680
+Hänen on siedettävä vähän ilkivaltaa.
+
+285
+00:23:54,840 --> 00:23:59,520
+Otamme kuvan, jossa seisomme
+kyltin kanssa: "Kaksoissalasanat."
+
+286
+00:23:59,680 --> 00:24:02,440
+Oletko valmis? Naura.
+
+287
+00:24:06,920 --> 00:24:10,920
+Kymmenen tuntia on kulunut siitä, kun hakkerit
+saastuttivat Kristofferin tietokoneen.
+
+288
+00:24:11,080 --> 00:24:17,120
+Nyt Jesper voi olla oma itsensä.
+On aika paljastua.
+
+289
+00:24:18,360 --> 00:24:21,840
+-Moi! Nimeni on Jesper.
+-Tervetuloa.
+
+290
+00:24:22,000 --> 00:24:27,600
+Työskentelen tietoturvaspesialistina
+    luultavasti jo ymmärsit sen.
+
+291
+00:24:27,760 --> 00:24:30,920
+-Olen.
+    Näytät hieman hämmentyneeltä.
+
+292
+00:24:31,080 --> 00:24:35,120
+Ei, mutta ... luulen, että
+olemme olleet yhteydessä päivän aikana.
+
+293
+00:24:35,280 --> 00:24:40,160
+    Sain sähköposteja sinun takiasi.
+    -Se on varmasti totta.
+
+294
+00:24:40,320 --> 00:24:44,640
+    Ainakin viimeisten tuntien ajan.
+    -Oikein.
+
+295
+00:24:44,800 --> 00:24:49,480
+-Oletko huomannut mitään muuta?
+-Luulen Instagram, Facebook ja...
+
+296
+00:24:49,640 --> 00:24:53,920
+    Voimmeko tarkistaa Instagramin nyt, vai?
+    -Kyllä aivan.
+
+297
+00:24:55,040 --> 00:24:59,840
+Voi hitto, etkö postannut Instagramiin?
+-Ei ei ei....
+
+298
+00:25:00,000 --> 00:25:04,040
+Tarkista viimeisin postaus.
+Oletko hermostunut vai?
+
+299
+00:25:04,200 --> 00:25:07,480
+-Kyllä totta kai.
+-Ei huolta, se on turvallinen.
+
+300
+00:25:07,640 --> 00:25:11,160
+Tunnistatko ketään?
+/ JESPER NAURAA /
+
+301
+00:25:11,320 --> 00:25:15,840
+Kiitos paljon.
+Siinä lukee "kaksoissalasanat".
+
+302
+00:25:16,000 --> 00:25:22,200
+Todisteena siitä, että minut omistettiin,
+se sattui vähän.
+
+303
+00:25:22,360 --> 00:25:26,760
+En ole jonkin turvallisuusalan yrityksen
+IT-päällikkö.
+
+304
+00:25:26,920 --> 00:25:31,280
+-Olen pelle.
+-Mutta aika hyvä pelle.
+
+305
+00:25:31,440 --> 00:25:36,480
+Mutta en tehnyt tätä yksin,
+sain apua. Tässä he ovat.
+
+306
+00:25:36,640 --> 00:25:39,880
+Näetkö meidät? Olet jäädytetty.
+
+307
+00:25:40,040 --> 00:25:43,480
+-Kyllä nyt. Hei!
+-Hei!
+
+308
+00:25:43,640 --> 00:25:47,640
+David ja minä olimme hotellihuoneessa
+ja liityimme Teamsin kautta.
+
+309
+00:25:47,800 --> 00:25:50,720
+Pystyimme hallitsemaan hänen tietokonettaan sieltä.
+
+310
+00:25:50,880 --> 00:25:54,440
+    Onko tietokoneesi edessäsi?
+    -On.
+
+311
+00:25:54,600 --> 00:25:56,920
+Onko näytölläsi jotain nyt?
+
+312
+00:25:57,080 --> 00:26:01,600
+Avasin tämän asiakirjan,
+jossa oli yli 100 käyttäjänimeä ja salasanaa, näytöllä.
+
+313
+00:26:01,760 --> 00:26:06,760
+    Paska!
+    Tarvitset kolmoissalasanat.
+
+314
+00:26:06,920 --> 00:26:10,320
+Kiitos. Tiesin, että tämä tulisi vielä takaisin
+ja purisi minua takapuoleen.
+
+315
+00:26:10,480 --> 00:26:17,160
+Se oli hauskaa hakkeroida Kristofferia, koska
+Svenska Nyheter on melko provokatiivinen.
+
+316
+00:26:17,320 --> 00:26:23,400
+Mutta ... joo. Se on aika turhauttavaa,
+koska se eivät ole vain minun salasanani.
+
+317
+00:26:23,560 --> 00:26:25,560
+Hän otti sen hyvin.
+
+318
+00:26:25,720 --> 00:26:30,720
+Mutta ... ah niin. Se on melko turhauttavaa,
+koska se ei ole vain minun salasanani.
+
+319
+00:26:30,880 --> 00:26:34,040
+Se on SVT:n salasana -
+
+320
+00:26:34,200 --> 00:26:39,240
+-Jonka olen saanut
+kaupallisina salaisuuksina. Hitto, tämä on huonoa!
+
+321
+00:26:39,400 --> 00:26:42,480
+Mutta tiedätkö? Olen myös todella onnellinen.
+
+322
+00:26:42,640 --> 00:26:49,680
+Koska jos minulla olisi tämä lista,
+säästäisin niin paljon aikaa!
+
+323
+00:26:49,840 --> 00:26:54,320
+Olen suostunut tähän,
+joten ei paljon valittamista.
+
+324
+00:26:54,480 --> 00:26:58,560
+Se on silmiä avaavaa
+kuinka kaikki on yhteydessä toisiinsa.
+
+325
+00:26:58,720 --> 00:27:03,880
+"Minulla on tuo salasana sielläkin,
+joten jos joku sen löytää"...
+
+326
+00:27:04,040 --> 00:27:09,160
+Ymmärrän, että joku pahantahtoinen voi
+sekoittaa asioita minulle.
+
+327
+00:27:09,320 --> 00:27:13,920
+Vähän kuin seisoisi taululla
+Luksusansassa:
+
+328
+00:27:14,080 --> 00:27:20,280
+"Tiesin, että talouteni on huono,
+mutten tiennyt, että se oli näin huono."
+
+329
+00:27:20,440 --> 00:27:22,440
+Hyvä yhteenveto.
+
+330
+00:27:22,600 --> 00:27:26,200
+Hakkerien kalastelu
+Theresen kimppuun epäonnistui.
+
+331
+00:27:26,360 --> 00:27:31,720
+Therese klikkasi linkkiä, mutta
+ei koskaan syöttänyt tietojaan.
+
+332
+00:27:31,880 --> 00:27:34,920
+Kristofferin tietokone tarttui.
+
+333
+00:27:35,080 --> 00:27:39,240
+Hakkerit pystyivät kahdeksan tunnin
+kuluttua avaamaan tietokoneen avainketjun.
+
+334
+00:27:39,400 --> 00:27:45,200
+He varastivat hieman yli 100 tunnistetta,
+kuten Kristofferin Instagram-tilin.
+
+335
+00:27:45,360 --> 00:27:50,840
+Kristoffer: Olin iloinen
+liittyessäni tähän ohjelmaan.
+
+336
+00:27:51,000 --> 00:27:56,040
+Syy on yksinkertainen: Olisi hauskaa
+selvittää, missä olen huonoin–
+
+337
+00:27:56,200 --> 00:28:01,360
+-jotta voin olla siinä paras
+sen sijaan. Nyt voin alkaa tehdä sen oikein.
+
+338
+00:28:05,280 --> 00:28:10,760
+Etsin salasanoja. Sitten olen
+ollut lukemassa. Pitääkö minut tappaa?
+
+339
+00:28:10,920 --> 00:28:15,640
+-Ei, mutta ... Onko kamera pois päältä?
+-Meidän täytyy korjata tämä.
+
+340
+00:28:15,800 --> 00:28:20,880
+Se mitä olet löytänyt, meidän täytyy
+korjata - ja se on melko kiireellistä.
+

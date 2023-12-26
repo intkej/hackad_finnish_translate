@@ -1,0 +1,1445 @@
+1
+00:00:03,920 --> 00:00:06,720
+"Tehdään tämä."
+
+2
+00:00:06,880 --> 00:00:12,560
+-Pitäisikö tämä olla päällä?
+Joo, luuletko?
+
+3
+00:00:12,720 --> 00:00:20,080
+Tallennan kaikki puhelut, joten meillä on
+ylimääräinen varmuuskopio, jos tämä pettää.
+
+4
+00:00:20,240 --> 00:00:23,440
+Suuri osa rikollisuudesta
+on siirtynyt verkkoon:
+
+5
+00:00:23,600 --> 00:00:29,680
+Aina yksinkertaisista pienistä huijauksista
+vakavaan järjestäytyneeseen rikollisuuteen.
+
+6
+00:00:29,840 --> 00:00:35,960
+Joo, nämä ovat mahtavia.
+Ne näyttävät hyviltä. Nämä ovat kameroitamme.
+
+7
+00:00:38,320 --> 00:00:44,760
+Ei enää teini-ikäisiä, jotka tekevät asioita
+vain koska voivat–
+
+8
+00:00:44,920 --> 00:00:47,200
+    vaan rikollisia.
+
+9
+00:00:47,360 --> 00:00:52,640
+Tämäkin on kamera.
+Olen nyt varustettu.
+
+10
+00:00:52,800 --> 00:00:56,920
+Turvallisuusyritys Gunnebo
+on hyökätty.
+
+11
+00:00:57,080 --> 00:00:59,560
+Onko kamera päällä?
+
+12
+00:00:59,720 --> 00:01:03,960
+Joten en mene sisään,
+ja sitten vain... paniikki.
+
+13
+00:01:06,280 --> 00:01:12,200
+SVT on antanut neljän ammattilaisen
+hakkerin hyökätä yksilöiden–
+
+14
+00:01:12,360 --> 00:01:18,320
+    ja yritysten kimppuun, näyttääkseen
+    kuinka haavoittuvaisia olemme liitetyssä yhteiskunnassamme.
+
+15
+00:01:20,120 --> 00:01:23,480
+Järjestäytynyt rikollisuus
+on siirtynyt verkkoon.
+
+16
+00:01:23,640 --> 00:01:27,800
+Coopin oli suljettava
+melkein kaikki 800 myymälää.
+
+17
+00:01:27,960 --> 00:01:31,400
+Vakavat kyberhyökkäykset
+lisääntyvät joka vuosi–
+
+18
+00:01:31,560 --> 00:01:38,280
+Ja suuria lunnaita maksetaan
+pelastaakseen yritykset tuholta.
+
+19
+00:01:38,440 --> 00:01:44,200
+Voivatko hakkerimme päästä
+suuriin yrityksiin salaisen pikatien kautta?
+
+20
+00:01:54,680 --> 00:01:57,480
+/ PUHELINSIGNAALI /
+
+21
+00:02:08,560 --> 00:02:14,320
+Pelkään, että he ovat epäluuloisia
+ja soittavat poliisille.
+
+22
+00:02:14,480 --> 00:02:17,760
+olenko hermostunut, Jinny?
+
+23
+00:02:20,240 --> 00:02:22,720
+Hakkerimme pelaavat rikollisia.
+
+24
+00:02:22,880 --> 00:02:27,640
+Kahdessa päivässä heidän on tunkeuduttava
+IT-yritykseen nimeltä Langate.
+
+25
+00:02:27,800 --> 00:02:32,960
+Jesper ja Jinny käyttävät
+sosiaalista manipulointia,
+
+26
+00:02:33,120 --> 00:02:39,240
+-päästäkseen yritykseen
+ja saadakseen jalansijaa.
+
+27
+00:02:39,400 --> 00:02:45,000
+Kukaan siellä, paitsi toimitusjohtaja,
+ei tiedä hyökkäyksestä.
+
+28
+00:02:45,160 --> 00:02:51,880
+Jinny pukeutuu työntekijäksi
+ja sanoo tarkastavansa kosteutta.
+
+29
+00:02:52,040 --> 00:02:55,720
+He ovat tehneet "peittotarinan",
+jossa hänen nimensä on Frida.
+
+30
+00:02:55,880 --> 00:03:02,040
+Heillä on verkkosivusto Flexvattenille,
+firman, josta hän on.
+
+31
+00:03:02,200 --> 00:03:07,800
+Pysähdyn tässä.
+On hyvä, jos meitä ei nähdä.
+
+32
+00:03:09,200 --> 00:03:14,040
+    Voimme pysähtyä tässä.
+    Joo, mietin sitäkin.
+
+33
+00:03:15,040 --> 00:03:18,080
+Riski on, että he soittavat poliisille.
+
+34
+00:03:18,240 --> 00:03:22,920
+Että he ottavat sinut kiinni, epäilevät
+ja pitävät sinut siellä.
+
+35
+00:03:23,080 --> 00:03:28,320
+Todellisuudessa tämä olisi ollut
+melko vakava rikos.
+
+36
+00:03:32,040 --> 00:03:36,680
+Joku, joka haluaa hyökätä useita yrityksiä
+voi kohdistaa toimittajaan -
+
+37
+00:03:36,840 --> 00:03:40,480
+-niin kutsutun toimitusketjuhyökkäyksen.
+
+38
+00:03:40,640 --> 00:03:46,080
+Langate on pieni monien asiakkaiden kanssa.
+Jos hakkerit onnistuvat tunkeutumaan heihin–
+
+39
+00:03:46,240 --> 00:03:51,080
+-niin mahdollisuus päästä käsiksi
+suureen määrään yrityksiä on avoinna.
+
+40
+00:03:56,040 --> 00:04:02,640
+Viimeiset metrit... En tarkistanut
+sydänmonitoria, mutta se oli todennäköisesti korkea.
+
+41
+00:04:02,800 --> 00:04:05,720
+Olin todella hermostunut.
+
+42
+00:04:07,200 --> 00:04:12,400
+Hei! Olen täällä mittaamassa kosteutta
+seinissänne.
+
+43
+00:04:12,560 --> 00:04:18,400
+-Sölvesborgin Rakentamosta, vai?
+-Kyllä. Tai Sölvesborgin kunnasta.
+
+44
+00:04:18,560 --> 00:04:21,080
+Onko se ok?
+
+45
+00:04:23,560 --> 00:04:27,360
+Ihmisillä on taipumus
+täyttää aukot -
+
+46
+00:04:27,520 --> 00:04:30,960
+-Jos joku näyttää sopivan
+johonkin rooliin.
+
+47
+00:04:31,120 --> 00:04:34,280
+Jos näytät IT-teknikolta,
+olet todennäköisesti sellainen.
+
+48
+00:04:34,440 --> 00:04:38,400
+-Missä on keittiö ja...?
+    Keittiö on tuolla.
+
+49
+00:04:38,560 --> 00:04:41,800
+-Kylpyhuone?
+-Tuolla.
+
+50
+00:04:41,960 --> 00:04:46,160
+Jos näytät siltä, että kuulut ympäristöön,
+oletamme, että kuulut siihen.
+
+51
+00:04:46,320 --> 00:04:51,360
+Emme ehkä pysäytä ihmistä
+ja pyydä nähdäksemme henkilökortin -
+
+52
+00:04:51,520 --> 00:04:57,200
+-Tai katso tarkkaan ja huomaa,
+että henkilökortti on väärennetty.
+
+53
+00:04:57,360 --> 00:05:04,000
+Maailman paksuin seinä on hyödytön,
+jos joku avaa siihen oven.
+
+54
+00:05:31,000 --> 00:05:37,840
+Etsin kaapeleita katossa
+ja kaapelia televisiolle.
+
+55
+00:05:38,000 --> 00:05:42,560
+-Mutta siellä ei ollut mitään,
+joten päätimme, että he käyttivät kaikkea wifiä.
+
+56
+00:05:42,720 --> 00:05:45,440
+Eikä meillä ollut valmistautunut siihen.
+
+57
+00:05:45,600 --> 00:05:49,600
+Hän on ollut sisällä 15 minuuttia tähän mennessä.
+58
+00:05:49,760 --> 00:05:54,320
+Tunsin,
+että minun piti käydä vielä yksi kierros.
+
+59
+00:05:54,480 --> 00:06:01,280
+Sitten näin oven. Menin suoraan
+sisään kuin tietäisin, mitä siellä oli.
+
+60
+00:06:01,440 --> 00:06:08,520
+Siellä oli kytkin - verkon
+laitteisto - ja jokin palvelin
+
+61
+00:06:08,680 --> 00:06:12,120
+-Jossa valot vilkkuivat.
+
+62
+00:06:12,280 --> 00:06:17,080
+Joten se oli kultakaivos,
+juuri mitä etsin.
+
+63
+00:06:17,240 --> 00:06:22,280
+Nopeasti kuin mikään, ottaa kaikki ylös,
+kytkeä, kytkeä virta...
+
+64
+00:06:23,960 --> 00:06:26,480
+Jinny?
+
+65
+00:06:33,640 --> 00:06:36,160
+Jotain tapahtuu.
+
+66
+00:06:42,200 --> 00:06:49,200
+Ulos ovesta ja tee kuin kirjoittaisit.
+Kirjoitin paperille koko matkan ulos.
+
+67
+00:06:57,040 --> 00:07:00,080
+    Menitkö ulos, Jinny?
+    Kyllä.
+
+68
+00:07:00,240 --> 00:07:04,760
+Laitoitko sen kiinni?
+Tiedätkö, että sinulla on linkki?
+
+69
+00:07:04,920 --> 00:07:09,600
+    Vilkaisi.
+    Ei ole vielä tullut ylös.
+
+70
+00:07:09,760 --> 00:07:15,560
+Unohda se. Se tuli ylös! Se on ylhäällä.
+Kyllä, meillä on yhteys!
+
+71
+00:07:18,200 --> 00:07:20,360
+Voi vittu!
+
+72
+00:07:20,520 --> 00:07:24,960
+Voi! Kuinka jännittynyt olin.
+
+73
+00:07:25,120 --> 00:07:27,480
+Niin pirun hyvä!
+
+74
+00:07:27,640 --> 00:07:30,280
+Kuin, hitto.
+
+75
+00:07:30,440 --> 00:07:33,240
+Lasit olivat sumeat koko ajan.
+
+76
+00:07:33,400 --> 00:07:38,240
+Hän on pirun sankari. Olen parkkipaikalla,
+joten lähden pois.
+
+77
+00:07:40,800 --> 00:07:45,080
+Voit aloittaa
+Vastakkaisten analyysitilan heti.
+
+78
+00:07:45,240 --> 00:07:51,880
+On riski, että hän... Kun sanoin,
+mitä halusin tehdä, hän pysähtyi.
+
+79
+00:07:52,040 --> 00:07:57,000
+Tuntuu kuin olisin
+tehnyt jotain pahaa, ja olemme.
+
+80
+00:08:02,000 --> 00:08:06,200
+Vuoden 2020 lopussa oli
+merkittävä toimitusketjuhyökkäys
+
+81
+00:08:06,360 --> 00:08:09,600
+    turvayhtiö Solarwindsiä vastaan.
+
+82
+00:08:09,760 --> 00:08:13,880
+Hyökkäyksessä levisi haittaohjelmaa
+Solarwindsin asiakkaille -
+
+83
+00:08:14,040 --> 00:08:19,000
+– kuten Yhdysvaltain sotilaille
+ja useille muille turvayhtiöille.
+
+84
+00:08:19,160 --> 00:08:25,000
+Ruotsissa esimerkiksi
+Volvo Cars, Skanska ja Avaruusvirasto.
+
+85
+00:08:32,400 --> 00:08:38,400
+Yhdysvaltain valtiovarainministeriö osoitti
+Venäjän vastuulliseksi hyökkäyksestä.
+
+86
+00:08:47,680 --> 00:08:54,120
+Olen niin helvetin... melkein oksentamassa
+nyt, ... adrenaliinista.
+
+87
+00:09:04,480 --> 00:09:10,960
+Kuinka aloitamme keskustelun? Vain:
+"Hei, haluamme hakkeroida yrityksesi."
+
+88
+00:09:11,120 --> 00:09:15,000
+Samalla kun Linus tutkii
+yritystä sisältä -
+
+89
+00:09:15,160 --> 00:09:19,520
+    he tapaavat yrityksen toimitusjohtajan
+    keskustellakseen tehtävästä.
+
+90
+00:09:19,680 --> 00:09:23,400
+Toimitusjohtaja ei tiedä,
+että hakkerit ovat käynnistäneet.
+
+91
+00:09:23,560 --> 00:09:27,680
+    Haluatko lounaan ja keskustelua?
+    Kyllä, meidän pitäisi tehdä se.
+
+92
+00:09:27,840 --> 00:09:31,280
+Kukaan Langatessa ei tiedä tästä.
+
+93
+00:09:31,440 --> 00:09:36,400
+Kukaan henkilökunnasta, kukaan ei tiedä,
+että tämä tehdään.
+
+94
+00:09:36,560 --> 00:09:41,680
+En itse tiedä yksityiskohtia,
+mutta nyt minua aletaan hakkeroida.
+
+95
+00:09:41,840 --> 00:09:45,680
+"Onnea matkaan."
+Mutta ei liikaa "onnea".
+
+96
+00:09:45,840 --> 00:09:51,480
+Me Langatessa tiedämme, että
+voimme olla hakkeri-iskun uhreja -
+
+97
+00:09:51,640 --> 00:09:54,640
+    Päästäksemme käsiksi asiakkaisiimme.
+
+98
+00:09:54,800 --> 00:10:00,720
+    Haluamme luoda mahdollisimman hyvän suojan.
+    Koska tulette olemaan herkin osa.
+
+99
+00:10:00,880 --> 00:10:06,520
+Kyllä, tulemme olemaan palveluntarjoaja
+toimitusketjussa muille.
+
+100
+00:10:06,680 --> 00:10:09,960
+Mahdollisesti voisi saavuttaa–
+
+101
+00:10:10,120 --> 00:10:14,520
+-Nopeasti noin sadalle asiakkaalle
+tärkeää tietoa.
+
+102
+00:10:14,680 --> 00:10:20,880
+-Tai suorittaa lunnasohjelman hyökkäyksen...
+-Jokin haitallinen koodi.
+
+103
+00:10:21,040 --> 00:10:27,440
+Tai vain päästä käsiksi tietoihin,
+joilla näet olevan uskomattoman liiketoimintarvoa.
+
+104
+00:10:32,680 --> 00:10:38,440
+Minulla oli kokemus tänä viikonloppuna.
+Asiakas, joka on kieltäytynyt suojelusta -
+
+105
+00:10:38,600 --> 00:10:42,080
+-Ja vaatii, että julkaisemme
+terminaalipalvelimemme.
+
+106
+00:10:42,240 --> 00:10:49,040
+Sitten he saivat lunnasohjelman, ja pam,
+maksujärjestelmä lakkasi toimimasta. Ikävää!
+
+107
+00:10:49,200 --> 00:10:54,360
+Lunnasohjelma on miljardien dollarien teollisuus.
+Se vain kasvaa.
+
+108
+00:10:54,520 --> 00:10:59,640
+Ruotsalaiset yritykset, jotka ovat
+joutuneet lunnasohjelman uhriksi ja maksaneet...
+
+109
+00:10:59,800 --> 00:11:05,640
+Kokonaismäärä vuodessa
+on useita miljardeja kruunuja.
+
+110
+00:11:05,800 --> 00:11:11,000
+On tapauksia, joissa ruotsalaiset yritykset
+ovat maksaneet lähes 300 miljoonaa–
+
+111
+00:11:11,160 --> 00:11:15,560
+-Saadakseen tiedostonsa avattua.
+Ja se on YKSI yritys.
+
+112
+00:11:16,560 --> 00:11:22,760
+Hakkeri, joka pääsee resursseihin,
+voi suorittaa lunnasohjelman hyökkäyksen.
+
+113
+00:11:22,920 --> 00:11:26,680
+Tapahtuu niin, että kaikki tiedostot
+salataan ja lukitaan.
+
+114
+00:11:26,840 --> 00:11:30,760
+Nyt tarvitaan avain
+palauttaakseen kaiken.
+
+115
+00:11:30,920 --> 00:11:37,080
+Tiedostot kaapattiin hakkerin toimesta,
+joka vaatii rahaa lukituksen avaamiseksi.
+
+116
+00:11:38,280 --> 00:11:43,440
+Coop-ruokaketjun oli suljettava
+lähes kaikki 800 myymäläänsä.
+
+117
+00:11:43,600 --> 00:11:46,320
+-Kassajärjestelmän epäonnistuttua.
+
+118
+00:11:46,480 --> 00:11:50,640
+Tänä kesänä Coop joutui
+lunnasohjelman hyökkäyksen kohteeksi -
+
+119
+00:11:50,800 --> 00:11:53,680
+-Joka oli myös
+toimitusketjuhyökkäys.
+
+120
+00:11:53,840 --> 00:11:58,320
+Coopin kassajärjestelmän käyttö
+hoidetaan Visma Esscomin kautta.
+
+121
+00:11:58,480 --> 00:12:03,440
+Visma puolestaan käyttää
+palveluita yritykseltä Kaseya.
+
+122
+00:12:03,600 --> 00:12:07,200
+Kaseya oli se, joka joutui
+hakkerin hyökkäyksen kohteeksi.
+
+123
+00:12:07,360 --> 00:12:13,720
+Haittaohjelma levisi Vismaan
+ja aiheutti Coopin kassakoneiden lukituksen.
+
+124
+00:12:13,880 --> 00:12:20,600
+Coopin oli suljettava 800 myymäläänsä
+samalla kun he käynnistivät kaikki kassakoneet manuaalisesti.
+
+125
+00:12:21,760 --> 00:12:27,520
+On muitakin esimerkkejä hyökkäyksistä, jotka
+vaikuttivat yrityksiin ja infrastruktuuriin.
+
+126
+00:12:27,680 --> 00:12:31,560
+Vuonna 2019 alumiininvalmistaja
+Norsk Hydro oli vaikutuksen alainen.
+
+127
+00:12:31,720 --> 00:12:36,080
+Yksi työntekijän klikkaus
+sähköpostilinkkiin riitti.
+
+128
+00:12:36,240 --> 00:12:40,720
+Hakkerit pääsivät Hydroon IT-ympäristöön
+ja istuttivat viruksen –
+
+129
+00:12:40,880 --> 00:12:45,480
+-Jota he käyttivät salaamaan
+tiedot koko yrityksessä.
+
+130
+00:12:45,640 --> 00:12:50,280
+Tietokoneet ja palvelimet olivat lukittuja,
+ja tuotantolinjat pysähtyivät.
+
+131
+00:12:50,440 --> 00:12:55,240
+Hyökkäyksen kokonaissumma
+arvioitiin olevan 75 miljoonaa dollaria.
+
+132
+00:12:55,400 --> 00:12:58,520
+Norsk Hydro ei koskaan maksanut
+lunnaita.
+
+133
+00:12:58,680 --> 00:13:04,720
+Heillä oli varmuuskopiot tiedoistaan
+ja he pystyivät käynnistämään toimintansa uudelleen.
+
+134
+00:13:04,880 --> 00:13:11,600
+Pankkholvien, hälytysjärjestelmien
+ja hallituksen herkkätiedot ovat verkossa.
+
+135
+00:13:11,760 --> 00:13:18,520
+Turvayhtiö Gunnebo
+joutui lunnasohjelman hyökkäyksen kohteeksi vuonna 2020.
+
+136
+00:13:18,680 --> 00:13:24,560
+Gunnebo kieltäytyi maksamasta lunnaita.
+Noin 38 000 asiakirjaa vuoti –
+
+137
+00:13:24,720 --> 00:13:27,280
+ja ovat nähtävillä verkossa.
+
+138
+00:13:27,440 --> 00:13:31,680
+Pankkiholvien, hälytysjärjestelmien
+ja herkkien tilojen piirustuksia.
+
+139
+00:13:31,840 --> 00:13:37,680
+Kyselyssä 150:stä
+ruotsalaisesta yrityksen IT-managerista –
+
+140
+00:13:37,840 --> 00:13:44,040
+    30% ilmoittaa, että heitä on kohdannut
+    lunnasohjelman hyökkäys viimeisen vuoden aikana.
+
+141
+00:13:54,240 --> 00:13:57,680
+Siitä lähdetään. Tehdään se.
+
+142
+00:13:57,840 --> 00:14:03,200
+-Nyt ollaan matkalla. Kuinka hienoa!
+-On hauskaa katsella tätä.
+
+143
+00:14:04,480 --> 00:14:07,920
+Hei! Tulin mittaamaan kosteutta
+seinissänne.
+
+144
+00:14:08,080 --> 00:14:12,240
+    Sölvesborgin rakennuksesta, vai?
+    Kyllä. Tai Sölvesborgin kunnasta.
+
+145
+00:14:12,400 --> 00:14:15,680
+Tarkistin pesualtaan alta ja niin edelleen.
+
+146
+00:14:17,440 --> 00:14:22,920
+    Kostea laatta, vai mitä?.
+    Joo, mitäpä minä tiedän?
+
+147
+00:14:23,080 --> 00:14:29,360
+Tällaisessa hyökkäyksessä et tiedä,
+kuinka valmistautunut uhri on.
+
+148
+00:14:29,520 --> 00:14:34,720
+Joten sinun on tehtävä se hitaasti
+ja varovasti, ettei...
+
+149
+00:14:34,880 --> 00:14:39,840
+Et halua tehdä liikaa melua
+verkossa.
+
+150
+00:14:40,000 --> 00:14:45,480
+Et tiedä, mitä odottaa.
+Se on vähän kuin labyrintti ilman karttaa.
+
+151
+00:14:45,640 --> 00:14:52,040
+Sinulla on joukko hienoja työkaluja,
+mutta labyrintissä on hirviöitä.
+
+152
+00:14:52,200 --> 00:14:58,360
+    Ei salasanasuihkuttelua, vain.
+    Ei ei ei.
+
+153
+00:14:59,520 --> 00:15:04,040
+Tule nyt...! Minulla on
+ongelmia täällä.
+
+154
+00:15:06,160 --> 00:15:12,920
+Aloitamme kartoittamaan mitä siellä on.
+Näemme selvästi ihmisten menevän kotiin.
+
+155
+00:15:13,080 --> 00:15:18,680
+Emme ole onnistuneet. Hyökkäykset,
+joita normaalisti käytämme, eivät toimi.
+
+156
+00:15:18,840 --> 00:15:21,680
+Mietin, pitäisikö meidän kokeilla–
+
+157
+00:15:21,840 --> 00:15:25,960
+-tehdä aktiivinen vastaaja
+YHDELLÄ tietokoneella.
+
+158
+00:15:26,120 --> 00:15:31,280
+-Heillä on paljon erilaisia asioita.
+    Sitä minä katson.
+
+159
+00:15:31,440 --> 00:15:35,480
+En voi kestää tätä.
+Minun täytyy nukkua.
+
+160
+00:15:35,640 --> 00:15:39,560
+Meillä on ohjelma,
+joka toimii yön yli–
+
+161
+00:15:39,720 --> 00:15:42,880
+-Ja kun he tulevat toimistoon
+huomenna.
+
+162
+00:15:43,040 --> 00:15:48,280
+Toivottavasti jollakulla on kannettava tietokone
+mukanaan, jonka he ovat vieneet kotiin.
+
+163
+00:15:48,440 --> 00:15:54,280
+Kun he käynnistävät sen, toivottavasti
+se laukaisee jotain, jonka voimme napata.
+
+164
+00:15:54,440 --> 00:15:58,680
+On syynsä
+pysyä myöhään.
+
+165
+00:15:58,840 --> 00:16:02,240
+Voit tehdä rohkeampia asioita
+verkossa -
+
+166
+00:16:02,400 --> 00:16:06,400
+    ilman huolta siitä,
+    että ihmiset huomaavat sen.
+
+167
+00:16:06,560 --> 00:16:10,120
+Joten on joka syy
+pysyä myöhään.
+
+168
+00:16:35,800 --> 00:16:40,960
+Lunnasohjelman hyökkäykset ovat yleisiä,
+mutta harva haluaa puhua niistä.
+
+169
+00:16:41,120 --> 00:16:46,120
+SVT on kysynyt useilta yrityksiltä,
+jotka ovat joutuneet suuriin hyökkäyksiin -
+
+170
+00:16:46,280 --> 00:16:50,680
+    mutta kukaan heistä
+    ei halua antaa haastattelua.
+
+171
+00:16:50,840 --> 00:16:54,200
+Kukaan ei tiedä, kuinka yleistä se on–
+
+172
+00:16:54,360 --> 00:16:58,600
+-Koska yritykset eivät
+ilmoita siitä poliisille.
+
+173
+00:16:58,760 --> 00:17:03,760
+Saattaa olla, että he ajattelevat,
+että poliisi ei tee mitään -
+
+174
+00:17:03,920 --> 00:17:08,600
+-Tai että et halua julkaista
+että sinulla on ollut hyökkäys -
+
+175
+00:17:08,760 --> 00:17:13,120
+-Joka on iskenyt kovaa, koska yritykset
+ajattelevat sen tarkoittavan -
+
+176
+00:17:13,280 --> 00:17:20,000
+-Että "osoitamme, että meillä on huono
+tietoturva eikä saada asiakkaita".
+
+177
+00:17:38,320 --> 00:17:42,080
+Meidän on oltava hieman rakenteellisempia nyt.
+
+178
+00:17:42,240 --> 00:17:46,160
+    Responderille...
+    Responderissa ei ole osumia.
+
+179
+00:17:46,320 --> 00:17:50,680
+Kun saavuimme tänään,
+mitään ei ollut tapahtunut.
+
+180
+00:17:50,840 --> 00:17:56,280
+Meidän on tavoitettava kaikki
+nämä asiakkaat, se on tavoite.
+
+181
+00:17:56,440 --> 00:18:00,520
+Meidän on päästävä käsiksi koneeseen,
+varmuuskopiopalvelimeen...
+
+182
+00:18:00,680 --> 00:18:04,160
+Meidän on päästävä asiakkaisiin.
+
+183
+00:18:04,320 --> 00:18:11,480
+Heillä voi olla varsin hyvin
+jokin tekniikkaintoilija, joka on varmistanut turvallisuutensa.
+
+184
+00:18:11,640 --> 00:18:16,560
+Se on katastrofi meille.
+Sitten meidän on oltava hyvin luovia.
+
+185
+00:18:20,720 --> 00:18:25,800
+Pahimmassa tapauksessa
+sinulla oli hyvä ajatus siinä, Linus.
+
+186
+00:18:25,960 --> 00:18:33,000
+Yritetään myrkyttää verkko ja pakottaa
+kone yhdistämään meihin.
+
+187
+00:18:33,160 --> 00:18:38,320
+Kenties meidän pitäisi
+tehdä rohkeampi hyökkäys joka tapauksessa.
+
+188
+00:18:38,480 --> 00:18:42,720
+Rohkeammalla tarkoitan:
+Jos etsimme jotain metsästä
+
+189
+00:18:42,880 --> 00:18:47,840
+-niin puhallamme kaikki puut pois
+löytääksemme jotain maasta.
+
+190
+00:18:48,000 --> 00:18:53,760
+Jesperin hyökkäys pysäyttää mahdollisesti
+verkon toiminnan -
+
+191
+00:18:53,920 --> 00:18:56,720
+-neille, joita hyökkäämme.
+
+192
+00:18:56,880 --> 00:19:03,280
+Pieni tietokoneemme, jonka olemme piilottaneet
+kaapin taakse yrityksen sisällä...
+
+193
+00:19:03,440 --> 00:19:08,440
+Päätimme ohjata kaiken liikenteen
+tämän pienen pisteen kautta–
+
+194
+00:19:08,600 --> 00:19:14,680
+-pakottaaksemme kaiken, mikä on verkossa,
+tekemään mitä haluamme.
+
+195
+00:19:14,840 --> 00:19:18,560
+Kukaan ei muista pelkuria.
+Painammeko kaikki kolmea?
+
+196
+00:19:18,720 --> 00:19:22,800
+-Yhteisvastuu ei ole vastuuta.
+    Sinulla on täysi valta.
+
+197
+00:19:22,960 --> 00:19:26,080
+Painan nyt sitten.
+
+198
+00:19:29,920 --> 00:19:33,120
+Se toimii.
+
+199
+00:19:33,280 --> 00:19:36,640
+Kyllä! Uusi hash. Voi miten hienoa.
+
+200
+00:19:39,480 --> 00:19:42,720
+Nyt mennään!
+
+201
+00:19:42,880 --> 00:19:46,520
+Sitä tullaan näkemään, tämä on meluisa.
+
+202
+00:19:46,680 --> 00:19:49,200
+Kyllä, ja se tekee sen.
+
+203
+00:19:49,360 --> 00:19:51,880
+–Oi, oi.
+    Mitä?
+
+204
+00:19:52,040 --> 00:19:56,680
+    Oletko löytänyt verkon?
+    Minun sessio on alhaalla.
+
+205
+00:19:56,840 --> 00:19:59,080
+-Ei ei ei....
+
+206
+00:20:00,360 --> 00:20:03,600
+Löysivätkö he sen?
+
+207
+00:20:06,360 --> 00:20:11,160
+Jonkin ajan kuluttua
+terminaalimme jäätyy–
+
+208
+00:20:11,320 --> 00:20:17,960
+    ja menetämme yhteyden
+    yksikköömme, joka on sisällä.
+
+209
+00:20:18,120 --> 00:20:21,120
+Kyllä, minulta loppuu.
+
+210
+00:20:23,320 --> 00:20:28,560
+-Pahus. Olimme liian aggressiivisia.
+-Kyllä, sen voi varmaan sanoa.
+
+211
+00:20:28,720 --> 00:20:35,520
+He löytävät laatikkomme ja irrottavat sen.
+Menetämme yhteyden. Peli päättyy.
+
+212
+00:20:39,480 --> 00:20:46,360
+Nyt kun olemme taas sokeita eikä meillä ole
+pääsyä, meillä on muutamia hajakirjauksia.
+
+213
+00:20:46,520 --> 00:20:52,040
+Hajakirjaukset ovat salauksen
+vastineita salasanalle.
+
+214
+00:20:52,200 --> 00:20:56,640
+Ja voimme murtaa
+ne laskentateholla.
+
+215
+00:20:56,800 --> 00:21:03,520
+Tehokkaat tietokoneet grafiikkakorteilla,
+joilta pyydämme ratkaisua ongelmaamme.
+
+216
+00:21:06,960 --> 00:21:13,640
+Aika käy vähiin. Linuksen yrittäessä
+murtaa salasanoja
+
+217
+00:21:13,800 --> 00:21:17,520
+-Jinny ja Jesper palaavat
+yrityksen toimistoon.
+
+218
+00:21:17,680 --> 00:21:21,600
+On aika paljastaa itsensä.
+
+219
+00:21:21,760 --> 00:21:26,560
+Katsotaan, mitä he vastaavat,
+ovatko he huomanneet mitään.
+
+220
+00:21:27,320 --> 00:21:32,000
+-Tervetuloa!
+-Kiitos. - Käykää sisään.
+
+221
+00:21:32,160 --> 00:21:35,640
+-Oletteko viihtyneet?
+-Kyllä.
+
+222
+00:21:37,480 --> 00:21:43,680
+Meillä on mukanamme joitain ystäviä,
+minä ja kollegani:
+
+223
+00:21:43,840 --> 00:21:47,200
+Jinny, eli Frida.
+
+224
+00:21:47,360 --> 00:21:51,160
+Työskentelemme tietoturvajärjestelmien parissa.
+
+225
+00:21:51,320 --> 00:21:54,240
+Olemme tehneet joitain asioita kanssasi.
+
+226
+00:21:55,600 --> 00:22:01,120
+On hiljaista. Kaikki on ollut hyvin?
+Viikko on ollut hyvä?
+
+227
+00:22:01,280 --> 00:22:03,760
+Ei häiriöitä?
+
+228
+00:22:03,920 --> 00:22:07,720
+Tuntemukseni
+näiden kahden henkilön tullessa:
+
+229
+00:22:07,880 --> 00:22:12,480
+"Vau, nyt hän on palkannut
+viihderyhmän" -
+
+230
+00:22:12,640 --> 00:22:17,960
+    "joka tulee viihdyttämään meitä."
+    He sanoivat olevansa tietoturva-asiantuntijoita.
+
+231
+00:22:18,120 --> 00:22:23,920
+Joten ajattelen: "Kyllä, nyt tulee
+paljon tietoturvavitsiä, koska se on meidän juttu."
+
+232
+00:22:24,080 --> 00:22:27,960
+Tunnistaako kukaan
+kollegaani täällä?
+
+233
+00:22:28,960 --> 00:22:34,640
+-Kyllä! Ei, mikä hemmetti...
+    Sinun pitäisi tunnistaa minut.
+
+234
+00:22:34,800 --> 00:22:39,440
+Voi, mikä se...? Ai, ok!
+
+235
+00:22:39,600 --> 00:22:46,240
+Sitten tunnistan Jinny,
+joka on soluttautunut meihin.
+
+236
+00:22:46,400 --> 00:22:50,000
+Minä olen se, joka avaa oven.
+
+237
+00:22:50,160 --> 00:22:54,720
+Hei! Tulin
+mittaamaan kosteutta seinissänne.
+
+238
+00:22:54,880 --> 00:23:00,800
+-Mitä me täällä teimme, aivan yksinkertaisesti?
+-Mittasitte kosteutta...
+
+239
+00:23:05,840 --> 00:23:09,920
+Se oli hyvin positiivinen reaktio.
+Pelkäsin, että hän suuttuisi.
+
+240
+00:23:10,080 --> 00:23:14,880
+Mutta hän nauroi ja...
+Joten siellä on shokki, mutta myös naurua.
+
+241
+00:23:15,040 --> 00:23:19,960
+Olen puhelussa, kun avaan oven.
+Puhun asiakkaalle tietoturvasta.
+
+242
+00:23:20,120 --> 00:23:23,360
+Sanon: "Ovikello soi."
+
+243
+00:23:23,520 --> 00:23:28,240
+"Hei, nimeni on Frida.
+Aion mitata kosteutta." - "Kyllä, tee vain."
+
+244
+00:23:28,400 --> 00:23:32,120
+"Se on erittäin tärkeää,
+tietoturvan kannalta!"
+
+245
+00:23:34,040 --> 00:23:38,320
+Ettekö ole huomanneet mitään
+infrastruktuurissa tai...?
+
+246
+00:23:38,480 --> 00:23:45,040
+Havaitsemme vastauksen tietokoneessa,
+joka ei tuntunut luonnolliselta.
+
+247
+00:23:45,200 --> 00:23:48,200
+Mitä pitäisi tapahtua, ei tapahdu–
+
+248
+00:23:48,360 --> 00:23:52,640
+    sen sijaan saamme
+    kirjautumisruudun. Se on outoa.
+
+249
+00:23:52,800 --> 00:23:58,600
+Olemme nähneet pienen laatikon huoneessa,
+jonka olette ehkä laittaneet sinne.
+
+250
+00:23:58,760 --> 00:24:02,280
+Epäilen,
+ettei se ole enää yhteydessä.
+
+251
+00:24:02,440 --> 00:24:08,080
+-Miten löysitte sen?
+-Kollegani näki sen.
+
+252
+00:24:08,240 --> 00:24:14,680
+Itse asiassa yksi asiakkaistamme
+hyökkäsi oikeasti.
+
+253
+00:24:14,840 --> 00:24:19,840
+Joten Jörgen ja minä pyydämme
+ihmisiä tulemaan tänne ja sanomme:
+
+254
+00:24:20,000 --> 00:24:24,320
+"Nyt meillä on prio 1 -hälytys.
+Joku on hakkeroinut."
+
+255
+00:24:24,480 --> 00:24:27,480
+Aika outoa, oudot ajoitukset.
+
+256
+00:24:27,640 --> 00:24:31,560
+Heillä oli toinen tapaus samaan aikaan.
+
+257
+00:24:31,720 --> 00:24:35,200
+Asiakkaalla oli tunkeutuminen
+tehdessämme omia juttujamme.
+
+258
+00:24:35,360 --> 00:24:39,120
+"Näen laatikon. Tiedättekö siitä jotain?"
+
+259
+00:24:39,280 --> 00:24:43,840
+"Ei. Ei mitään
+tietoa, mikä sisäinen projekti tämä on? "
+
+260
+00:24:44,000 --> 00:24:46,440
+"Sitten haluan irrottaa sen."
+
+261
+00:24:46,600 --> 00:24:51,520
+Olisimme voineet pysyä verkossa
+pidempään, jos heillä ei olisi ollut tuota tapausta.
+
+262
+00:24:51,680 --> 00:24:54,440
+Joten se oli vain epäonninen asia.
+
+263
+00:24:55,520 --> 00:25:01,760
+Ihmiset ovat menettäneet kolme vuotta työtä,
+koska heitä on hyökätty vastaan.
+
+264
+00:25:01,920 --> 00:25:08,320
+He hyökkäsivät dataa vastaan, mutta myös
+varmuuskopiota datasta. Sitten se on poissa.
+
+265
+00:25:08,480 --> 00:25:13,040
+Sitten itket todellisuudessa.
+Olet työskennellyt kolme vuotta–
+
+266
+00:25:13,200 --> 00:25:16,600
+-hukkaan
+ja sinun on aloitettava alusta.
+
+267
+00:25:16,760 --> 00:25:20,280
+Ei ole mitään
+luotavaa tai pelastettavaa.
+
+268
+00:25:20,440 --> 00:25:25,480
+Olemme ottaneet kaksi salasanaa
+ja antaneet ne koneillemme.
+
+269
+00:25:25,640 --> 00:25:30,800
+Ne yrittävät murtaa salasanaa
+edelleen. Se ei ole vielä murrettu.
+
+270
+00:25:30,960 --> 00:25:38,200
+Meillä oli hyvin lyhyt aika - olemme
+käyttäneet melkein kaksi päivää suunnitteluun.
+
+271
+00:25:38,360 --> 00:25:42,520
+Se on vain ajan kysymys
+ennen kuin tämä murtautuu.
+
+272
+00:25:42,680 --> 00:25:46,600
+Saimme käsiimme
+kaksi salattua salasanaa - hajakirjausta.
+
+273
+00:25:46,760 --> 00:25:52,840
+Olemme yrittäneet murtaa niitä
+24 tuntia emmekä ole vielä onnistuneet.
+
+274
+00:25:53,000 --> 00:25:57,560
+Se on surullista meille,
+mutta hyvä arvosana Langatelle.
+
+275
+00:25:57,720 --> 00:26:01,920
+Maailmassani olet onnistunut,
+vaikka et sitä ehkä ajattele.
+
+276
+00:26:02,080 --> 00:26:05,320
+Hakkerit onnistuivat soluttautumaan
+IT-yritykseen–
+
+277
+00:26:05,480 --> 00:26:10,080
+    ja saivat pääsyn
+    yrityksen verkkoon yli vuorokauden ajan.
+
+279
+00:26:15,040 --> 00:26:18,840
+-Ja siksi he eivät voineet
+päästä käsiksi asiakkaisiin verkossa.
+
+280
+00:26:19,000 --> 00:26:23,200
+Hakkerit törmäsivät salasanoihin,
+jotka olivat hyvälaatuisia.
+
+281
+00:26:23,360 --> 00:26:27,680
+Yritykset murtaa ne
+keskeytettiin 48 tunnin jälkeen.
+
+282
+00:26:27,840 --> 00:26:31,200
+Ne ovat yhä ratkaisematta.
+
+283
+00:26:31,360 --> 00:26:37,280
+Jos olisin paha hakkeri,
+olisin hiljaisempi–
+
+284
+00:26:37,440 --> 00:26:41,800
+    ja ottaisin aikaa. Kun minulla olisi
+    tarpeeksi asiakkaita -
+
+285
+00:26:41,960 --> 00:26:45,520
+-lukitsisin luultavasti
+kaiken salauksella–
+
+286
+00:26:45,680 --> 00:26:48,680
+-Ja vaatisin paljon rahaa
+lunnaita vastaan.
+
+287
+00:26:48,840 --> 00:26:54,160
+Jos he eivät maksa,
+juu, sitten menkööt konkurssiin.
+
+288
+00:26:54,320 --> 00:26:56,840
+"Mitä väliä? Olen paha."
+
+289
+00:27:03,480 --> 00:27:07,880
+Meillä ei tällä hetkellä ole
+perusturvallisuutta -
+
+290
+00:27:08,040 --> 00:27:12,080
+-joten meillä on melko korkea rimaa.
+Mitä korkeampi rima on–
+
+291
+00:27:12,240 --> 00:27:16,480
+-Sitä kalliimpaa ja aikaa vievämpää
+on hyökkääjän yrittää päästä käsiksi-
+
+292
+00:27:16,640 --> 00:27:23,480
+-tietoihin. Tämä on liiketoiminnan kannalta
+kriittistä.
+
+293
+00:27:23,640 --> 00:27:29,000
+Tätä hallitusten tulisi olla
+tottuneita käsittelemään.
+
+294
+00:27:29,160 --> 00:27:33,000
+Näet turvallisuusinvestoinnit
+kuluna.
+
+295
+00:27:33,160 --> 00:27:37,480
+Jos näet sen investointina,
+jotain joka tuottaa tuottoa–
+
+296
+00:27:37,640 --> 00:27:44,640
+-on helpompi perustella.
+Kyse on yrityksen selviytymisestä.
+
+297
+00:27:44,800 --> 00:27:51,480
+Tämä on loputtava nyt. Olen väsynyt
+puhumaan epätoivoisille ihmisille -
+
+298
+00:27:51,640 --> 00:27:57,400
+-jotka joutuvat vaikeuksiin
+jatkuvien hakkeri-iskujen vuoksi.
+
+299
+00:28:03,320 --> 00:28:09,320
+Hyvää huomenta, Klara. Toivottavasti
+olet nukkunut hyvin. Tänään on aurinkoista ulkona.
+
+300
+00:28:09,480 --> 00:28:14,400
+Tämä niin kutsuttu IoT-mies
+on kuin kirottu hullu tiedemies.
+
+301
+00:28:14,560 --> 00:28:17,720
+Olen turvassa,
+he eivät pääse sisään.
+
+302
+00:28:17,880 --> 00:28:21,880
+-Tarkista, pääsetkö sisään.
+-On, olemme sisällä.
