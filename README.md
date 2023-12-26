@@ -13,7 +13,7 @@ Firefox
 https://addons.mozilla.org/en-US/firefox/addon/substital/
 # Select the episode you want
 At the beginning of your episode, head to the "Extensions" menu in the top right of your browser
-Select "Substital"
+and select "Substital"
 # Select the files
 You will see this menu in the bottom of your screen, press it and select the right translated .srt file and you're good to go.
 ![Image](pic.jpg)
