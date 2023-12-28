@@ -1,5 +1,5 @@
 # hackad_finnish_translate
-"Hackad" ethical hacking series translated to finnish because the only translation it has by default is swedish.
+"Hackad" ethical hacking series translated to Finnish because the only translation it has by default is swedish.
 Watch Hackad at: https://www.svtplay.se/video/32893243/hackad/hackad-sasong-1-jag-har-inget-att-dolja?info=visa
 # INSTALLATION
 
