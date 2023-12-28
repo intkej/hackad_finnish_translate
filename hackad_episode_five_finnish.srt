@@ -76,7 +76,7 @@ yhteiskunnassamme.
 17
 00:01:10,360 --> 00:01:14,400
 David, Linus, Jesper ja Jinny
-sai 48 tuntia hakata –
+sai 48 tuntia hakkeroida –
 
 18
 00:01:14,560 --> 00:01:18,880
@@ -1243,7 +1243,7 @@ Se on tärkeintä.
 
 262
 00:21:56,520 --> 00:22:01,160
-Koska jos yksi palvelu hakataan,
+Koska jos yksi palvelu hakkeroidaan,
 sinun tarvitsee vain vaihtaa se salasana-
 
 263
